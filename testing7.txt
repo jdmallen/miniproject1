@@ -1,468 +1,468 @@
 FIRST_NAME           SURNAME              STATUS         SALARY PAY_BASIS  POSITION_TITLE 
 =====================================================================================================================
-Marie E.             Aberger              Employee        42000 Per Annum  PRESS ASSISTANT  
-Sandra               Abrevaya             Employee        90000 Per Annum  ASSOCIATE COMMUNICATIONS DIRECTOR  
-David P.             Agnew                Employee       153500 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT AND DIRECTOR OF INTERGOVERNMENTAL AFFAIRS  
-Rumana A.            Ahmed                Employee        42565 Per Annum  EXECUTIVE ASSISTANT TO THE DIRECTOR OF PUBLIC ENGAGEMENT  
-James                Albino               Employee        93000 Per Annum  SENIOR PROGRAM MANAGER  
-Elias                Alcantara            Employee        42000 Per Annum  STAFF ASSISTANT  
-Amanda D.            Anderson             Employee       102000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS  
-Russell M.           Anello               Detailee        92001 Per Annum  ASSISTANT COUNSEL  
-Adam J.              Arguelles            Employee       102000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS  
-Aviva R.             Aron-Dine            Employee       130500 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR ECONOMIC POLICY  
-Jonathan D.          Asen                 Employee        50000 Per Annum  SPECIAL ASSISTANT TO THE DIRECTOR  
-Caroline M.          Atkinson             Employee       130500 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR INTERNATIONAL ECONOMIC AFFAIRS  
-Hannah M.            August               Employee        70000 Per Annum  PRESS SECRETARY TO THE FIRST LADY  
-Steven A.            Avila                Employee        42000 Per Annum  ANALYST    
-Lindsay A.           Ayling               Employee        50000 Per Annum  SENIOR WRITER  
-Joseph L.            Babler               Employee        42000 Per Annum  STAFF ASSISTANT  
-Sarah E.             Baker                Employee        80000 Per Annum  DEPUTY ASSOCIATE COUNSEL FOR PRESIDENTIAL PERSONNEL  
-Kristen A.           Bartoloni            Employee        55000 Per Annum  ASSOCIATE RESEARCH DIRECTOR  
-Mary E.              Baskerville          Employee        47000 Per Annum  ASSOCIATE DIRECTOR FOR TRAVEL PLANNING  
-Andrew J.            Bates                Employee        45000 Per Annum  RESEARCHER  
-Stephanie            Beechem              Employee        45000 Per Annum  RESEARCHER  
-Brandon M.           Belford              Employee        90000 Per Annum  SENIOR POLICY ADVISOR  
-Emmett S.            Beliveau             Employee       130000 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT AND DIRECTOR, OFFICE OF THE CHIEF OF STAFF  
-Jeremy M.            Bernard              Employee       118000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND WHITE HOUSE SOCIAL SECRETARY  
-Jarrod N.            Bernstein            Detailee       138000 Per Annum  ASSOCIATE DIRECTOR OF PUBLIC ENGAGEMENT  
-Rachana              Bhowmik              Employee       130000 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT AND DEPUTY CABINET SECRETARY  
-Mary U.              Binns                Employee        72022 Per Annum  SPECIAL ASSISTANT  
-Rachel I.            Bisi                 Employee        42000 Per Annum  LEGISLATIVE ASSISTANT  
-Patricia A.          Blair                Employee        96725 Per Annum  CHIEF CALLIGRAPHER  
-Jessica M.           Blakemore            Employee        60000 Per Annum  SPECIAL ASSISTANT TO THE COUNSELOR TO THE PRESIDENT  
-Michael R.           Block                Employee        60000 Per Annum  ASSOCIATE DIRECTOR OF INTERGOVERNMENTAL AFFAIRS  
-Patricia H.          Blount               Employee        51630 Per Annum  RECORDS MANAGEMENT ANALYST  
-Chelsea M.           Bollinger            Employee        42000 Per Annum  STAFF ASSISTANT  
-Natalie F.           Bookey-Baker         Employee        55000 Per Annum  DEPUTY ASSOCIATE DIRECTOR  
-Katherine Y.         Branch               Employee        61200 Per Annum  SPECIAL ASSISTANT TO THE SENIOR ADVISOR  
-Anita J.             Breckenridge         Employee        95000 Per Annum  PERSONAL AIDE TO THE PRESIDENT  
-John O.              Brennan              Employee       172200 Per Annum  ASSISTANT TO THE PRESIDENT FOR HOMELAND SECURITY AND COUNTERTERRORISM  
-Mary J.              Brooke               Employee        94969 Per Annum  SUPERVISOR OF CORRESPONDENCE REVIEW  
-Jordan A.            Brooks               Employee        50000 Per Annum  SPECIAL ASSISTANT TO THE CHIEF OF STAFF TO THE FIRST LADY  
-Debra S.             Brown                Employee        85953 Per Annum  CALLIGRAPHER  
-Amy J.               Brundage             Employee       103000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND DEPUTY PRESS SECRETARY  
-Daniel W.            Brundage             Employee        60000 Per Annum  SPECIAL ASSISTANT TO THE SENIOR ADVISOR AND DEPUTY CHIEF OF STAFF  
-Michael P.           Brush                Employee       102000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND DEPUTY DIRECTOR OF ADVANCE  
-Scott E.             Buckhout             Employee        45000 Per Annum  POLICY ASSISTANT  
-Nicole               Buffa                Employee        80000 Per Annum  DEPUTY DIRECTOR OF CABINET AFFAIRS  
-Jillian M.           Burger               Employee        42000 Per Annum  ANALYST    
-Jordan M.            Burke                Employee        82500 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND ASSISTANT COMMUNICATIONS DIRECTOR  
-Frances L.           Campbell             Employee       103872 Per Annum  SUPERVISOR, DOCUMENT MANAGEMENT AND TRACKING UNIT  
-David R.             Campos               Employee        42565 Per Annum  SENIOR ANALYST  
-Alejandra M.         Campoverdi           Employee        65000 Per Annum  DEPUTY DIRECTOR OF HISPANIC MEDIA  
-James F.             Carney               Employee       172200 Per Annum  ASSISTANT TO THE PRESIDENT AND PRESS SECRETARY  
-Bradley W.           Carroll              Employee        78000 Per Annum  COMMUNICATIONS DIRECTOR OF THE DOMESTIC POLICY COUNCIL AND OFFICE OF NATIONAL AIDS POLICY  
-Jonathan K.          Carson               Employee       153500 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT AND DIRECTOR OF THE OFFICE OF PUBLIC ENGAGEMENT  
-Michael A.           Case                 Employee        50000 Per Annum  ASSISTANT DIRECTOR  
-Kinsey E.            Casey                Employee        55000 Per Annum  NATIONAL SECURITY DIRECTOR  
-Hannah R.            Chatalas             Employee        42000 Per Annum  RESEARCH ASSOCIATE  
-Teresa R.            Chaurand             Employee       113000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR PRESIDENTIAL PERSONNEL  
-Caroline K.          Cheng                Employee       158500 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT AND PRINCIPAL DEPUTY COUNSEL TO THE PRESIDENT  
-Mark B.              Childress            Employee       172200 Per Annum  ASSISTANT TO THE PRESIDENT AND DEPUTY CHIEF OF STAFF FOR PLANNING  
-Theodore A.          Chiodo               Employee        90000 Per Annum  CHIEF OF STAFF, OFFICE OF THE STAFF SECRETARY  
-Ronnie S.            Cho                  Employee        65000 Per Annum  ASSOCIATE DIRECTOR OF PUBLIC ENGAGEMENT  
-Lilia H.             Claude               Employee        60232 Per Annum  INFORMATION SERVICES OPERATOR  
-John S.              Click                Employee        43616 Per Annum  INFORMATION SERVICES OPERATOR  
-Kwesi A.             Cobbina              Employee        65000 Per Annum  CHIEF OF STAFF, OFFICE OF LEGISLATIVE AFFAIRS  
-Kasie M.             Coccaro              Employee        47500 Per Annum  ASSOCIATE DIRECTOR OF ONLINE OUTREACH AND OPERATIONS  
-David Z.             Cohen                Employee        42000 Per Annum  EXECUTIVE ASSISTANT  
-Rebecca A.           Cokley               Employee        72000 Per Annum  PRIORITY PLACEMENT DIRECTOR  
-Grant N.             Colfax               Employee       100000 Per Annum  DIRECTOR OF THE OFFICE OF NATIONAL AIDS POLICY  
-Matthew V.           Compton              Employee        67500 Per Annum  DEPUTY DIRECTOR OF DIGITAL CONTENT  
-II, Charles B.       Cooper               Detailee       115800 Per Annum  EXECUTIVE DIRECTOR, JOINING FORCES  
-Caroline M.          Coscia               Employee        50000 Per Annum  SPECIAL ASSISTANT AND PRESS LEAD  
-Francesca-Maria L.   Covey                Employee        42000 Per Annum  DEPUTY TO THE COUNSELOR FOR STRATEGIC ENGAGEMENT  
-Steven P.            Croley               Employee       135000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND SENIOR COUNSEL TO THE PRESIDENT  
-Danielle M.          Crutchfield          Employee       140000 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT AND DIRECTOR OF SCHEDULING AND ADVANCE  
-Martin E.            Cuellar              Employee        91800 Per Annum  DEPUTY DIRECTOR, PRESIDENTIAL CORRESPONDENCE  
-Patrick J.           Cunnane              Employee        42000 Per Annum  PRESS ASSISTANT  
-Colleen A.           Curtis               Employee        72500 Per Annum  DIRECTOR OF DIGITAL CONTENT  
-Chase M.             Cushman              Employee        58000 Per Annum  SENIOR SCHEDULER  
-Kareem A.            Dale                 Employee        80000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND DEPUTY ASSOCIATE DIRECTOR OF PUBLIC ENGAGEMENT  
-Ashlee J.            Davis                Employee        42000 Per Annum  ENERGY AND ENVIRONMENT STAFF ASSISTANT  
-Atta, Casey R.       Davis-Va             Employee        50000 Per Annum  SENIOR WRITER  
-Laura A.             Dean                 Employee        50000 Per Annum  ASSISTANT SPEECHWRITER  
-Brian C.             Deese                Employee       147500 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT AND DEPUTY DIRECTOR, NATIONAL ECONOMIC COUNCIL  
-Brian K.             DeGuzman             Employee        55000 Per Annum  DIRECTOR OF INFORMATION SERVICES  
-Jr., Danilo          DeGuzman             Employee        74958 Per Annum  PRESIDENTIAL SUPPORT SPECIALIST  
-Nancy-Ann M.         DeParle              Employee       172200 Per Annum  ASSISTANT TO THE PRESIDENT AND DEPUTY CHIEF OF STAFF FOR POLICY  
-Thomas E.            Donilon              Employee       172200 Per Annum  ASSISTANT TO THE PRESIDENT AND NATIONAL SECURITY ADVISOR  
-Michael W.           Donovan              Employee        54000 Per Annum  ASSOCIATE DIRECTOR OF SCHEDULING  
-Kelly C.             Doohan               Employee        50000 Per Annum  SCHEDULING ASSISTANT AND TRIP COORDINATOR  
-Monique              Dorsainvil           Employee        50000 Per Annum  DEPUTY DIRECTOR OF ADVANCE AND SPECIAL EVENTS FOR THE OFFICE OF PUBLIC ENGAGEMENT AND INTERGOVERNMENTAL AFFAIRS  
-Craig M.             Dorsett              Employee        50000 Per Annum  SPECIAL ASSISTANT TO THE CHIEF OF STAFF  
-Mark A.              Doumet               Employee        50000 Per Annum  SPECIAL ASSISTANT TO THE WHITE HOUSE COUNSEL  
-Philip C.            Droege               Employee       140259 Per Annum  DIRECTOR OF RECORDS MANAGEMENT  
-Joshua P.            DuBois               Employee       100000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND EXECUTIVE DIRECTOR OF THE WHITE HOUSE OFFICE OF FAITH-BASED AND NEIGHBORHOOD PARTNERSHIPS  
-Katherine I.         Duceman              Employee        42000 Per Annum  STAFF ASSISTANT  
-Julia L.             Duncan               Employee        42000 Per Annum  STAFF ASSISTANT  
-Meghann L.           Dunlap               Employee        80000 Per Annum  DEPUTY ASSOCIATE COUNSEL FOR PRESIDENTIAL PERSONNEL  
-Joseph T.            Durheim              Employee        42000 Per Annum  ANALYST    
-Marissa N.           Duswalt              Detailee        51630 Per Annum  ASSOCIATE DIRECTOR FOR POLICY AND EVENTS LET'S MOVE! INITIATIVE  
-Deesha A.            Dyer                 Employee        60000 Per Annum  DEPUTY DIRECTOR AND HOTEL PROGRAM DIRECTOR  
-Joshua R.            Earnest              Employee       123000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND PRINCIPAL DEPUTY PRESS SECRETARY  
-Anita J.             Edmonds              Employee        51630 Per Annum  RECORDS MANAGEMENT ANALYST  
-Brian J.             Egan                 Employee       130500 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND ASSOCIATE COUNSEL TO THE PRESIDENT  
-Layth S.             Elhassani            Employee       130500 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS  
-Michael S.           Epstein              Employee        55000 Per Annum  SPECIAL ASSISTANT AND ADVANCE LEAD  
-Felicia A.           Escobar              Employee        93000 Per Annum  SENIOR POLICY DIRECTOR FOR IMMIGRATION  
-Zulima L.            Espinel              Employee       130500 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND ASSOCIATE COUNSEL TO THE PRESIDENT  
-Jonathan E.          Favreau              Employee       172200 Per Annum  ASSISTANT TO THE PRESIDENT AND DIRECTOR OF SPEECHWRITING  
-Jennifer M.          Fay                  Employee        85000 Per Annum  DIRECTOR OF WHITE HOUSE PERSONNEL  
-Sarah B.             Fenn                 Employee        60000 Per Annum  ASSISTANT COUNSEL OF ETHICS  
-Micaela J.           Fernandez            Employee       102000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND DIRECTOR OF EVENTS AND PROTOCOL  
-Sara A.              Feuerstein           Employee        42000 Per Annum  WEST WING RECEPTIONIST  
-Anne E.              Filipic              Employee        92000 Per Annum  DEPUTY DIRECTOR OF PUBLIC ENGAGEMENT  
-Max B.               Finberg              Detailee       132009 Per Annum  SENIOR POLICY ADVISOR  
-Samantha D.          Finke                Employee        52500 Per Annum  SPECIAL ASSISTANT AND PRESS MANAGER  
-Alyssa D.            Fisher               Employee       115000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS  
-Quinn S.             Fitzgerald           Employee        42000 Per Annum  STAFF ASSISTANT  
-Brian H.             Fletcher             Employee       114000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND ASSOCIATE COUNSEL TO THE PRESIDENT  
-Harrison A.          Ford                 Employee        65000 Per Annum  ASSISTANT DIRECTOR FOR INFORMATION TECHNOLOGY  
-Heather J.           Foster               Employee        60000 Per Annum  ASSOCIATE DIRECTOR OF PUBLIC ENGAGEMENT  
-Elizabeth J.         Fowler               Employee       130500 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR HEALTHCARE AND ECONOMIC POLICY  
-Myra B.              Freeman              Employee        73917 Per Annum  RECORDS MANAGEMENT ANALYST  
-Margaret E.          Freshwater           Employee        50000 Per Annum  DIRECTOR OF CORRESPONDENCE FOR THE FIRST LADY  
-Michael B.           Froman               Employee       172200 Per Annum  ASSISTANT TO THE PRESIDENT AND DEPUTY NATIONAL SECURITY ADVISOR FOR INTERNATIONAL ECONOMICS  
-Jocelyn C.           Frye                 Employee       140000 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT AND DIRECTOR OF POLICY AND PROJECTS FOR THE FIRST LADY  
-Jason L.             Furman               Employee       147500 Per Annum  ASSISTANT TO THE PRESIDENT AND PRINCIPAL DEPUTY DIRECTOR OF THE NATIONAL ECONOMIC COUNCIL  
-Charles W.           Galbraith            Employee        70000 Per Annum  ASSOCIATE DIRECTOR OF INTERGOVERNMENTAL AFFAIRS  
-Adam W.              Garber               Employee        62500 Per Annum  DEPUTY DIRECTOR OF DIGITAL CONTENT  
-Frederico C.         Gardaphe             Employee        75000 Per Annum  DEPUTY DIRECTOR  
-Melissa K.           Geraghty             Employee        95000 Per Annum  EXECUTIVE ASSISTANT TO THE CHIEF OF STAFF  
-Gregory E.           Gershuny             Employee        55000 Per Annum  ENERGY AND ENVIRONMENT DIRECTOR  
-Jennifer T.          Gerst                Employee        55000 Per Annum  BOARDS AND COMMISSIONS DIRECTOR  
-Jodi A.              Gillette             Employee       100000 Per Annum  SENIOR POLICY ADVISOR FOR NATIVE AMERICAN AFFAIRS  
-Shannon I.           Gilson               Employee       102000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND CABINET COMMUNICATONS DIRECTOR  
-Stephen M.           Goepfert             Employee        50000 Per Annum  ASSISTANT DIRECTOR  
-Ximena               Gonzalez             Employee        45000 Per Annum  EXECUTIVE ASSISTANT  
-Graham D.            Gottlieb             Employee        42000 Per Annum  BOARDS AND COMMISSIONS STAFF ASSISTANT  
-Michael J.           Gottlieb             Employee       130500 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND ASSOCIATE COUNSEL TO THE PRESIDENT  
-Heather C.           Gottry               Detailee       140259 Per Annum  ASSOCIATE COUNSEL FOR ETHICS  
-Emily C.             Gottschalk-Marconi   Employee        42000 Per Annum  STAFF ASSISTANT  
-Sean M.              Grady                Employee        42565 Per Annum  SENIOR ANALYST  
-Douglas E.           Graham               Employee        45000 Per Annum  RESEARCHER  
-Lottie B.            Graham               Employee        63673 Per Annum  INFORMATION SERVICES OPERATOR  
-Timothy C.           Granholm             Employee        45000 Per Annum  LEGISLATIVE ASSISTANT AND ASSISTANT TO THE SENATE LIAISON  
-Kathryn A.           Grant                Employee        45000 Per Annum  LEGISLATIVE ASSISTANT AND ASSOCIATE DIRECTOR FOR LEGISLATIVE CORRESPONDENCE  
-Danielle C.          Gray                 Employee       147500 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT AND DEPUTY DIRECTOR, NATIONAL ECONOMIC COUNCIL  
-Jason G.             Green                Employee       114000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND ASSOCIATE COUNSEL TO THE PRESIDENT  
-Andrei M.            Greenawalt           Employee       100000 Per Annum  POLICY ADVISOR TO THE OFFICE OF THE CHIEF OF STAFF  
-Jonathan A.          Greenblatt           Employee       120000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND DIRECTOR, OFFICE OF SOCIAL INNOVATION AND CIVIC PARTICIPATION  
-Norman A.            Greene               Employee        70000 Per Annum  DIRECTOR FOR FINANCE  
-Kyla F.              Griffith             Employee        45000 Per Annum  LEGAL ASSISTANT  
-Stephen H.           Grimes               Employee        50000 Per Annum  ASSISTANT DIRECTOR  
-Jerome T.            Gronniger            Employee       100000 Per Annum  SENIOR POLICY ADVISOR  
-Travis R.            Groth                Employee        48000 Per Annum  ASSOCIATE DIRECTOR  
-Anuj K.              Gupta                Employee        70000 Per Annum  ASSOCIATE STAFF SECRETARY  
-Matthew J.           Gustavson            Employee        43616 Per Annum  INFORMATION SERVICES OPERATOR  
-II, Artemus R.       Gwynn                Employee        42000 Per Annum  INFORMATION SERVICES OPERATOR  
-Avril D.             Haines               Employee       158500 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT AND DEPUTY COUNSEL TO THE PRESIDENT  
-Christa A.           Hall                 Employee        47500 Per Annum  ASSOCIATE DIRECTOR AND TRIP MANAGER  
-Hannah R.            Hankins              Employee        42000 Per Annum  MEDIA MONITOR  
-Jr., Terry P.        Hanson               Employee        55000 Per Annum  DOMESTIC DIRECTOR  
-Jacqueline B.        Harris               Employee        42000 Per Annum  ANALYST    
-Kathleen R.          Hartnett             Employee       130500 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND ASSOCIATE COUNSEL TO THE PRESIDENT  
-Timothy S.           Hartz                Employee        55000 Per Annum  SPECIAL ASSISTANT AND ADVANCE LEAD  
-Maria-Zena A.        Harwood              Employee        42000 Per Annum  RECORDS MANAGEMENT ANALYST  
-Quintin L.           Haynes               Employee        47500 Per Annum  ASSOCIATE DIRECTOR FOR FINANCE  
-Kellyn               Helmrick-Blossom     Employee        70000 Per Annum  ASSOCIATE DIRECTOR OF INTERGOVERNMENTAL AFFAIRS  
-Catherine L.         Hendricks            Employee        42000 Per Annum  ANALYST    
-Philip M.            Hernandez            Employee        50000 Per Annum  SENIOR POLICY ANALYST  
-Brian D.             Highsmith            Employee        50000 Per Annum  POLICY ADVISOR  
-Vy T.                Hoang                Employee        51630 Per Annum  RECORDS MANAGEMENT ANALYST  
-Nancy D.             Hogan                Employee       162900 Per Annum  ASSISTANT TO THE PRESIDENT AND DIRECTOR OF PRESIDENTIAL PERSONNEL  
-Benjamin S.          Holzer               Employee       100000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND DIRECTOR OF RESEARCH  
-Samuel B.            Houshower            Employee        50000 Per Annum  ASSISTANT COUNSEL  
-Irene                Hsu                  Employee        55000 Per Annum  SPECIAL ASSISTANT TO THE DIRECTOR OF INTERGOVERNMENTAL AFFAIRS  
-Caroline E.          Hughes               Employee        70000 Per Annum  REGIONAL COMMUNICATIONS DIRECTOR  
-Carolyn A.           Hull                 Employee        42565 Per Annum  SENIOR ANALYST  
-Caitlin G.           Hurley               Employee        60000 Per Annum  ASSISTANT STAFF SECRETARY  
-Sarah K.             Hurwitz              Employee       100000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT, SENIOR ADVISOR TO THE COUNCIL ON WOMEN AND GIRLS, AND SENIOR PRESIDENTIAL SPEECHWRITER  
-Shinichi             Inouye               Employee        78000 Per Annum  DIRECTOR OF SPECIALTY MEDIA  
-Nicole M.            Isaac                Employee       115000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS  
-Bartlett W.          Jackson              Employee        45000 Per Annum  VETTER     
-Elizabeth J.         Jackson              Employee        43616 Per Annum  RECORDS MANAGEMENT ANALYST  
-Theresa R.           Jackson              Employee        66335 Per Annum  INFORMATION SERVICES OPERATOR  
-William P.           Jacobi               Detailee       140259 Per Annum  ETHICS ADVISOR  
-Jewel A.             James                Employee        92000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR INTERGOVERNMENTAL AFFAIRS  
-Valerie B.           Jarrett              Employee       172200 Per Annum  SENIOR ADVISOR AND ASSISTANT TO THE PRESIDENT FOR INTERGOVERNMENTAL AFFAIRS AND PUBLIC ENGAGEMENT  
-Kristen E.           Jarvis               Employee        65000 Per Annum  DEPUTY DIRECTOR OF ADVANCE AND TRAVELING AIDE FOR THE FIRST LADY  
-Bradley L.           Jenkins              Employee        65000 Per Annum  ASSOCIATE DIRECTOR  
-Luis A.              Jimenez              Employee       130500 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS  
-Kelly X.             Jin                  Detailee        89033 Per Annum  POLICY ASSISTANT  
-Ashlee N.            Johnson              Detailee        74958 Per Annum  POLICY ASSISTANT  
-Carole A.            Johnson              Detailee       155500 Per Annum  SENIOR POLICY ADVISOR  
-Linda M.             Johnson              Employee        68230 Per Annum  INFORMATION SERVICES OPERATOR  
-Corey J.             Jones                Employee        42000 Per Annum  STAFF ASSISTANT  
-Crystal B.           Jones                Employee        87350 Per Annum  ASSISTANT SUPERVISOR, DOCUMENT MANAGEMENT AND TRACKING UNIT  
-Isabel C.            Jones                Employee        42000 Per Annum  STAFF ASSISTANT  
-Kristin T.           Jones                Employee        50000 Per Annum  SPECIAL ASSISTANT AND PERSONAL AIDE TO THE FIRST LADY  
-David M. Kalbaugh, David E.  Kaden                EmployeeEmployee     140259 Per Annum Per Annum  SENIOR POLICY ADVISOR EXECUTIVE CLERK  
-Katy A.              Kale                 Employee       153300 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT FOR MANAGEMENT AND ADMINISTRATION  
-Christopher D.       Kang                 Employee       135000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND SENIOR COUNSEL TO THE PRESIDENT  
-Eugene J.            Kang                 Employee        60000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND TRAVELING AIDE  
-Cody S.              Keenan               Employee       100000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND DEPUTY DIRECTOR OF SPEECHWRITING  
-Andrew J.            Keeney               Employee        42565 Per Annum  SENIOR ANALYST  
-Sarah A.             Kellermann           Employee        42565 Per Annum  SENIOR ANALYST  
-Allison K.           Kelly                Employee        50000 Per Annum  ASSISTANT DIRECTOR FOR VETTING  
-Lauren M.            Kelly                Employee        55000 Per Annum  DEPUTY ASSOCIATE DIRECTOR  
-Mara V.              Kelly                Detailee       127883 Per Annum  SENIOR POLICY ADVISOR  
-Nijah C.             Kelly                Employee        42000 Per Annum  INFORMATION SERVICES OPERATOR  
-Zachary M.           Kelly                Employee        50000 Per Annum  SPECIAL ASSISTANT TO THE DEPUTY CHIEF OF STAFF  
-Nathaniel O.         Keohane              Employee       130500 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR ENERGY AND ENVIRONMENT  
-Leslie B.            Kiernan              Employee       158500 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT AND DEPUTY COUNSEL TO THE PRESIDENT  
-Bradley J.           Kiley                Employee       162900 Per Annum  ASSISTANT TO THE PRESIDENT FOR MANAGEMENT AND ADMINISTRATION  
-Emilie A.            Kimball              Employee        42565 Per Annum  SENIOR ANALYST  
-Colleen M.           King                 Employee        45000 Per Annum  SPECIAL ASSISTANT TO THE CABINET SECRETARY  
-Taeshonnda C.        King                 Employee        61952 Per Annum  RECORDS MANAGEMENT ANALYST  
-Lacy R.              Kline                Employee        50000 Per Annum  SPECIAL ASSISTANT  
-Lisa M.              Kohn                 Employee        50000 Per Annum  POLICY ASSISTANT  
-Namrata              Kolachalam           Employee        45000 Per Annum  DEPUTY ASSISTANT DIRECTOR OF BROADCAST MEDIA  
-Stacy J.             Koo                  Employee        75000 Per Annum  DEPUTY CHIEF OF STAFF FOR PRESIDENTIAL PERSONNEL  
-Clarissa H.          Kornell              Employee        42000 Per Annum  NATIONAL SECURITY STAFF ASSISTANT  
-Douglas J.           Kramer               Employee       158500 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT AND STAFF SECRETARY  
-Alison C.            Kukla                Employee        42000 Per Annum  SPECIAL ASSISTANT TO THE COUNSELOR TO THE SENIOR ADVISOR FOR STRATEGIC ENGAGEMENT  
-Monika               Kulma                Employee        42000 Per Annum  STAFF ASSISTANT  
-Jeanne M.            Lambrew              Employee       158500 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT FOR HEALTH POLICY  
-Andrew B.            Langan               Detailee        74872 Per Annum  SENIOR POLICY ADVISOR  
-Emily R.             Langner              Employee        60000 Per Annum  ASSISTANT STAFF SECRETARY  
-Zachary T.           Larrimore            Employee        42000 Per Annum  ANALYST    
-Solomon D.           Lartey               Employee        60232 Per Annum  RECORDS MANAGEMENT ANALYST  
-Danielle E.          Lazarowitz           Employee        50000 Per Annum  POLICY ADVISOR  
-Howli J.             Ledbetter            Employee        57500 Per Annum  SPECIAL ASSISTANT TO THE PRESS SECRETARY  
-Jesse C.             Lee                  Employee        72500 Per Annum  DIRECTOR OF PROGRESSIVE MEDIA AND ONLINE RESPONSE  
-Monica M.            Lee                  Employee        42000 Per Annum  PRESS ASSISTANT  
-Noelle C.            Lee                  Detailee        92001 Per Annum  ASSOCIATE DIRECTOR FOR POLICY AND EVENTS  
-Stephanie A.         Lee                  Employee        60000 Per Annum  DEPUTY DIRECTOR OF SCHEDULING  
-Matthew A.           Lehrich              Employee        84250 Per Annum  ASSISTANT PRESS SECRETARY  
-Brandon D.           Lepow                Employee        70000 Per Annum  REGIONAL COMMUNICATIONS DIRECTOR  
-Jacob J.             Lew                  Employee       172200 Per Annum  ASSISTANT TO THE PRESIDENT AND CHIEF OF STAFF  
-Jesse M.             Lewin                Employee        42000 Per Annum  PRESS ASSISTANT  
-Kevin S.             Lewis                Employee        78000 Per Annum  DIRECTOR OF AFRICAN-AMERICAN MEDIA  
-Darin R.             Lezotte              Employee        64439 Per Annum  RECORDS MANAGEMENT ANALYST  
-Christopher S.       Liddell-Westefeld    Employee        60000 Per Annum  ASSISTANT STAFF SECRETARY  
-Kyle J.              Lierman              Employee        42000 Per Annum  STAFF ASSISTANT  
-Jordan N.            Lillie               Employee        45000 Per Annum  COORDINATOR  
-Erin E.              Lindsay              Employee        62500 Per Annum  DEPUTY DIRECTOR OF ONLINE ENGAGEMENT  
-David M.             Litt                 Employee        60000 Per Annum  SPEECHWRITER  
-Aaron M.             Lopata               Detailee       112224 Per Annum  SENIOR POLICY ADVISOR  
-Gregory              Lorjuste             Employee        58000 Per Annum  SENIOR SCHEDULER  
-Christopher P.       Lu                   Employee       172200 Per Annum  ASSISTANT TO THE PRESIDENT AND CABINET SECRETARY  
-Deatrice N.          Luck                 Employee        46745 Per Annum  INFORMATION SERVICES OPERATOR  
-Rory A.              MacFarquhar          Employee       110500 Per Annum  DIRECTOR   
-Jessica A.           Maher                Employee       115000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS  
-Galen E.             Main                 Employee        50000 Per Annum  ASSISTANT DIRECTOR  
-Linda S.             Manus                Employee        42000 Per Annum  STAFF ASSISTANT  
-Johanna M.           Maska                Employee        80000 Per Annum  DEPUTY DIRECTOR OF ADVANCE AND DIRECTOR OF PRESS ADVANCE  
-Christine D.         Mason                Detailee       132009 Per Annum  CLEARANCE ADVISOR  
-Alyssa M.            Mastromonaco         Employee       172200 Per Annum  ASSISTANT TO THE PRESIDENT AND DEPUTY CHIEF OF STAFF FOR OPERATIONS  
-Philip C.            Mattson              Employee        61952 Per Annum  SPECIAL ASSISTANT  
-Ari A.               Matusiak             Detailee       108717 Per Annum  ASSOCIATE DIRECTOR OF PUBLIC ENGAGEMENT  
-Stacie I.            McAferty             Employee        42000 Per Annum  ANALYST    
-Matthew J.           McAllister           Employee        42000 Per Annum  OPERATIONS STAFF ASSISTANT  
-Jonathan D.          McBride              Employee       130000 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT AND DEPUTY DIRECTOR OF PRESIDENTIAL PERSONNEL  
-Mary N.              McCarthy             Employee        80000 Per Annum  DEPUTY DIRECTOR OF CABINET AFFAIRS  
-William W.           McCathran            Employee       106839 Per Annum  ASSISTANT EXECUTIVE CLERK  
-Duncan J.            McCullough           Employee        42565 Per Annum  SENIOR ANALYST  
-Victoria M.          McCullough           Employee        45000 Per Annum  STAFF ASSISTANT  
-Denis R.             McDonough            Employee       172200 Per Annum  ASSISTANT TO THE PRESIDENT AND DEPUTY NATIONAL SECURITY ADVISOR  
-Douglas J.           McKalip              Detailee       165300 Per Annum  SENIOR POLICY ADVISOR  
-Margaret T.          McLaughlin           Employee       120000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND CHIEF OF STAFF FOR PRESIDENTIAL PERSONNEL  
-Collin T.            McMahon              Employee       113000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR PRESIDENTIAL PERSONNEL  
-Lawder, Claudia      McNamar              Employee        42000 Per Annum  ASSISTANT FOR ARRANGEMENTS  
-John D.              McNaught             Employee        42000 Per Annum  ECONOMICS STAFF ASSISTANT  
-Jr., Michael S.      McSwain              Employee        41000 Per Annum  ASSOCIATE DIRECTOR FOR SCHEDULING CORRESPONDENCE  
-Ezra L.              Mechaber             Employee        41000 Per Annum  ASSOCIATE DIRECTOR OF ONLINE ENGAGEMENT  
-Jason S.             Miller               Employee       120000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR MANUFACTURING POLICY  
-Chad L.              Millison             Employee        61952 Per Annum  RECORDS MANAGEMENT ANALYST  
-Luis A.              Miranda              Employee        78000 Per Annum  DIRECTOR OF HISPANIC MEDIA  
-Andrea K.            Mokros               Employee        90000 Per Annum  DIRECTOR OF SCHEDULING AND ADVANCE FOR THE FIRST LADY  
-Jr., Carlos A.       Monje                Employee       120000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND CHIEF OF STAFF OF THE DOMESTIC POLICY COUNCIL  
-Darron P.            Monteiro             Employee        61200 Per Annum  ASSOCIATE DIRECTOR OF PUBLIC ENGAGEMENT  
-Ellen J.             Montz                Employee        50000 Per Annum  POLICY ASSISTANT  
-Amanda D.            Moose                Employee       113000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR PRESIDENTIAL PERSONNEL  
-Tyler T.             Moran                Employee        80000 Per Annum  DEPUTY POLICY DIRECTOR FOR IMMIGRATION  
-Patricia G.          Moscoso              Employee        45000 Per Annum  LEGISLATIVE ASSISTANT  
-Julia S.             Moseley              Employee        62000 Per Annum  SENIOR ADVANCE LEAD  
-Brian D.             Mosteller            Employee        95000 Per Annum  DIRECTOR OF OVAL OFFICE OPERATIONS  
-Richard T.           Muffler              Employee        94372 Per Annum  CALLIGRAPHER  
-Cecilia              Muñoz               Employee       172200 Per Annum  ASSISTANT TO THE PRESIDENT AND DIRECTOR OF THE DOMESTIC POLICY COUNCIL  
-Shannon L.           Myricks              Employee        42000 Per Annum  INFORMATION SERVICES OPERATOR  
-II, Robert L.        Nabors               Employee       172200 Per Annum  ASSISTANT TO THE PRESIDENT AND DIRECTOR, OFFICE OF LEGISLATIVE AFFAIRS  
-Wanda M.             Neiman               Employee        74958 Per Annum  ASSISTANT TO THE EXECUTIVE CLERK  
-Elizabeth W.         Nelson               Employee        80000 Per Annum  DEPUTY DIRECTOR OF SCHEDULING AND SCHEDULING MANAGER  
-Gregory S.           Nelson               Employee       120000 Per Annum  CHIEF OF STAFF OF THE NATIONAL ECONOMIC COUNCIL  
-Jr., Marvin D.       Nicholson            Employee       130000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT, TRIP DIRECTOR AND PERSONAL AIDE TO THE PRESIDENT  
-David L.             Noble                Employee       113000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR PRESIDENTIAL PERSONNEL  
-Amanda J.            Norris               Employee        42000 Per Annum  STAFF ASSISTANT  
-Diana L.             Noyes                Employee        50000 Per Annum  RESEARCHER  
-Kyle P.              O'Connor             Employee        75000 Per Annum  PRESIDENTIAL SPEECHWRITER  
-Peter R.             Ogden                Employee        95000 Per Annum  SENIOR POLICY DIRECTOR  
-Daniel B.            Olmos                Detailee       140259 Per Annum  SENIOR POLICY ADVISOR  
-Elizabeth H.         Olson                Employee       110000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND DIRECTOR OF PRESIDENTIAL CORRESPONDENCE  
-Michael P.           O'Neil               Employee       100000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND DIRECTOR OF SPECIAL PROJECTS, OFFICE OF THE CHIEF OF STAFF  
-Brendan A.           O'Neill              Employee        45000 Per Annum  COORDINATOR  
-Rodrick T.           Owens                Employee        42565 Per Annum  SENIOR ANALYST  
-Jules E.             Pagano               Employee       158500 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS AND SENATE LIAISON  
-Darienne M.          Page                 Employee        50000 Per Annum  ASSISTANT DIRECTOR OF PUBLIC ENGAGEMENT  
-Lauren R.            Paige                Employee        95000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND DIRECTOR OF MESSAGE PLANNING  
-Helen L.             Pajcic               Employee        50000 Per Annum  POLICY ASSISTANT  
-Jennifer M.          Palmieri             Employee       158500 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT AND DEPUTY DIRECTOR OF COMMUNICATIONS  
-Elizabeth H.         Pan                  Employee        42000 Per Annum  STAFF ASSISTANT  
-Nicholas W.          Papas                Employee        84250 Per Annum  ASSISTANT PRESS SECRETARY  
-Louis S.             Pappas               Employee        60000 Per Annum  SENIOR LEGAL ASSISTANT  
-Andrew M. Parker, Doris D.  Parker               EmployeeEmployee      82359 Per Annum Per Annum  SPECIAL ASSISTANT ASSISTANT SUPERVISOR OF CLASSIFICATION  
-James M.             Parrott              Detailee       144385 Per Annum  SENIOR ADVISOR FOR HOUSING, NATIONAL ECONOMIC COUNCIL  
-Brian E.             Pate                 Employee        53350 Per Annum  ASSISTANT TO THE EXECUTIVE CLERK  
-Joseph B.            Paulsen              Employee        60000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND TRAVELING AIDE  
-John H.              Payne                Employee        42000 Per Annum  ANALYST    
-Christian B.         Peele                Employee        50000 Per Annum  DIRECTOR OF WHITE HOUSE INTERNSHIP PROGRAM  
-Alejandro            Pérez               Employee       130500 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS  
-Nathaniel M.         Perkins              Employee        42000 Per Annum  STAFF ASSISTANT  
-Seamus T.            Perry                Employee        47500 Per Annum  ASSOCIATE DIRECTOR AND TRIP MANAGER  
-Howard D.            Pfeiffer             Employee       172200 Per Annum  ASSISTANT TO THE PRESIDENT AND DIRECTOR OF COMMUNICATIONS  
-Shilpa D.            Phadke               Employee        80000 Per Annum  DEPUTY DIRECTOR OF CABINET AFFAIRS  
-III, Robert M.       Phillips             Employee       115000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND DIRECTOR OF DIGITAL STRATEGY  
-Niara E.             Phillips             Employee        42000 Per Annum  PRIORITY PLACEMENT STAFF ASSISTANT  
-Alexandra R.         Platkin              Employee        70000 Per Annum  DEPUTY DIRECTOR  
-Katherine A.         Platt                Employee        85000 Per Annum  DIRECTOR OF WHITE HOUSE OPERATIONS AND ADVISOR FOR MANAGEMENT AND ADMINISTRATION  
-David A.             Plouffe              Employee       172200 Per Annum  ASSISTANT TO THE PRESIDENT AND SENIOR ADVISOR  
-Natalie R.           Pojman               Employee        55000 Per Annum  DEPUTY PRESS SECRETARY AND EXECUTIVE SECRETARY  
-Joshua D.            Pollack              Employee        95000 Per Annum  DIRECTOR OF CONFIRMATIONS  
-Stacie M.            Posey                Employee        45000 Per Annum  COORDINATOR  
-Araz                 Pourmorad            Employee        65000 Per Annum  DEPUTY DIRECTOR OF OPERATIONS AND CONTINUITY  
-Michael J.           Pyle                 Employee       130500 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR ECONOMIC POLICY  
-Gautam               Raghavan             Employee        60000 Per Annum  ASSOCIATE DIRECTOR OF PUBLIC ENGAGEMENT  
-Paul S.              Raizk                Employee       113605 Per Annum  DEPUTY DIRECTOR OF RECORDS MANAGEMENT  
-London C.            Rakestraw            Employee        45000 Per Annum  LEGISLATIVE ASSISTANT AND ASSISTANT TO THE HOUSE LIAISON  
-Aneesh V.            Raman                Employee        70000 Per Annum  PRESIDENTIAL SPEECHWRITER  
-Ryan P.              Ramsey               Employee        55000 Per Annum  PRIORITY PLACEMENT DIRECTOR  
-Yasmin S.            Rana                 Employee        43616 Per Annum  INFORMATION SERVICES OPERATOR  
-Cole A.              Randle               Employee        47000 Per Annum  ASSOCIATE DIRECTOR FOR TRAVEL PLANNING  
-Antoinette N.        Rangel               Employee        42000 Per Annum  PRESS ASSISTANT  
-Fiona O.             Reeves               Employee        76500 Per Annum  PRINCIPAL DEPUTY DIRECTOR  
-Blair C.             Reinarman            Employee        55000 Per Annum  ECONOMICS DIRECTOR  
-Karen E.             Richardson           Employee        60000 Per Annum  ASSOCIATE DIRECTOR OF PUBLIC ENGAGEMENT  
-Cynthia L.           Roach                Employee       103872 Per Annum  SUPERVISOR OF CLASSIFICATION  
-Brian D.             Roberts              Employee        42000 Per Annum  ANALYST    
-Dominique E.         Robertson            Employee        42000 Per Annum  STAFF ASSISTANT  
-Iain T.              Robertson            Employee        45000 Per Annum  COORDINATOR  
-Derrick J.           Robinson             Employee        45000 Per Annum  VETTER     
-Tonya T.             Robinson             Employee       100000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR JUSTICE AND REGULATORY POLICY  
-Gertrude A.          Roddick              Employee        89846 Per Annum  PRESIDENTIAL SUPPORT SPECIALIST  
-Julie C.             Rodriguez            Employee        60000 Per Annum  ASSOCIATE DIRECTOR OF PUBLIC ENGAGEMENT  
-Miguel E.            Rodriguez            Employee       130500 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS  
-Roberto J.           Rodriguez            Employee       120000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR EDUCATION POLICY  
-Luke B.              Rosa                 Employee        45000 Per Annum  ADVANCE COORDINATOR  
-Joanna S.            Rosholm              Employee        70000 Per Annum  REGIONAL COMMUNICATIONS DIRECTOR  
-Peter M.             Rouse                Employee       172200 Per Annum  COUNSELOR TO THE PRESIDENT  
-Kathryn H.           Ruemmler             Employee       172200 Per Annum  ASSISTANT TO THE PRESIDENT AND COUNSEL TO THE PRESIDENT  
-Alexandria V.        Ruiz                 Employee        45000 Per Annum  LEGISLATIVE ASSISTANT  
-Racquel S.           Russell              Employee       120000 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT FOR URBAN AFFAIRS AND ECONOMIC MOBILITY  
-Katelyn A.           Sabochik             Employee        80000 Per Annum  DEPUTY DIRECTOR OF DIGITAL STRATEGY  
-Rishi R.             Sahgal               Employee        99000 Per Annum  DEPUTY ASSOCIATE COUNSEL  
-Jonathan D.          Samuels              Employee       158500 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS AND HOUSE LIAISON  
-Jr., Wendell A.      Samuels              Employee        64439 Per Annum  RECORDS SYSTEMS ANALYST  
-Roque T.             Sanchez              Employee        45000 Per Annum  POLICY ANALYST  
-David J.             Sandler              Employee        99000 Per Annum  DEPUTY ASSOCIATE COUNSEL  
-Joan C.              Sass                 Employee        58511 Per Annum  INFORMATION SERVICES OPERATOR  
-Karly M.             Satkowiak            Employee        45000 Per Annum  ASSOCIATE DIRECTOR AND SCHEDULING RESEARCHER  
-Ellie S.             Schafer              Employee       100000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND DIRECTOR OF VISITORS OFFICE  
-Kristina K.          Schake               Employee       114000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND DIRECTOR OF COMMUNICATIONS FOR THE FIRST LADY  
-Matthew J.           Schaub               Employee        50000 Per Annum  ASSISTANT DIRECTOR  
-Robert E.            Schmuck              Employee        60000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND TRAVELING AIDE  
-Hallie R.            Schneir              Employee        65000 Per Annum  ASSOCIATE DIRECTOR OF PUBLIC ENGAGEMENT  
-Gregory L.           Schuelke             Employee        42000 Per Annum  ANALYST    
-James D.             Schuelke             Employee        42000 Per Annum  STAFF ASSISTANT  
-Kori S.              Schulman             Employee        72500 Per Annum  DIRECTOR OF ONLINE ENGAGEMENT  
-Eric H.              Schultz              Employee        90000 Per Annum  ASSOCIATE COMMUNICATIONS DIRECTOR  
-Jessica E.           Schumer              Employee        60000 Per Annum  DEPUTY CHIEF OF STAFF OF THE NATIONAL ECONOMIC COUNCIL  
-Dawn M.              Selak                Employee        57500 Per Annum  EXECUTIVE ASSISTANT  
-Peter A.             Selfridge            Employee       130000 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT AND DIRECTOR OF ADVANCE AND OPERATIONS  
-Michael P.           Shapiro              Employee        55000 Per Annum  POLICY ADVISOR  
-Kathleen M.          Sheehy               Employee        62000 Per Annum  SPECIAL ASSISTANT TO THE WHITE HOUSE COUNSEL  
-Wendy W.             Showers              Employee        87350 Per Annum  PRESIDENTIAL SUPPORT SPECIALIST  
-Avra C.              Siegel               Employee        65000 Per Annum  DEPUTY EXECUTIVE DIRECTOR FOR THE COUNCIL ON WOMEN AND GIRLS  
-Jennifer J.          Simon                Employee        85000 Per Annum  DEPUTY DIRECTOR OF POLICY AND PROJECTS FOR THE FIRST LADY  
-Edward N.            Siskel               Employee       130500 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND SPECIAL COUNSEL TO THE PRESIDENT  
-Megan                Slack                Employee        47500 Per Annum  ASSOCIATE DIRECTOR OF DIGITAL CONTENT  
-Anne K.              Small                Employee       130500 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND ASSOCIATE COUNSEL TO THE PRESIDENT  
-Jamie E.             Smith                Employee       110500 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND DEPUTY PRESS SECRETARY  
-Jason J.             Smith                Employee        65000 Per Annum  SYSTEMS ADMINISTRATOR  
-Zakiya W.            Smith                Employee        93000 Per Annum  SENIOR POLICY ADVISOR FOR EDUCATION  
-Charlie J.           Sobel                Employee        72000 Per Annum  DIRECTOR OF TECHNOLOGY  
-Eugene B.            Sperling             Employee       172200 Per Annum  ASSISTANT TO THE PRESIDENT FOR ECONOMIC POLICY AND DIRECTOR OF THE NATIONAL ECONOMIC COUNCIL  
-Sarah C.             Spooner              Employee        42565 Per Annum  SENIOR ANALYST  
-Kamala M.            Srinivasagam         Employee       113000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR PRESIDENTIAL PERSONNEL  
-Kodiak H.            Starr                Employee        72500 Per Annum  NEW MEDIA CREATIVE DIRECTOR  
-Semonti M.           Stephens             Employee        75000 Per Annum  DEPUTY COMMUNICATIONS DIRECTOR  
-Clark W.             Stevens              Employee        84250 Per Annum  ASSISTANT PRESS SECRETARY  
-Ivan S.              Stoev                Employee        50000 Per Annum  ASSISTANT DIRECTOR  
-Wandra E.            Stone                Employee       112774 Per Annum  SUPERVISOR OF SEARCH AND FILE  
-Michael A.           Strautmanis          Employee       150000 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT AND COUNSELOR TO THE SENIOR ADVISOR FOR STRATEGIC ENGAGEMENT  
-Chun-Wei J.          Su                   Employee       130500 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND ASSOCIATE COUNSEL TO THE PRESIDENT  
-Sarah E.             Sullivan             Employee        41000 Per Annum  ANALYST    
-Gregory C.           Swanson              Employee        45000 Per Annum  COORDINATOR  
-Jr., Hugh T.         Taggart              Employee        94837 Per Annum  ASSISTANT SUPERVISOR OF SEARCH AND FILE  
-Nathanael P.         Tamarin              Employee        96900 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR PUBLIC ENGAGEMENT  
-Ashley R.            Tate-Gilmore         Employee        75000 Per Annum  DIRECTOR OF TRAVEL OFFICE  
-Christina M.         Tchen                Employee       172200 Per Annum  ASSISTANT TO THE PRESIDENT AND CHIEF OF STAFF TO THE FIRST LADY  
-Louis D.             Teater               Employee        62000 Per Annum  SENIOR ADVANCE LEAD  
-Dirk A.              Tedmon               Employee        42000 Per Annum  ANALYST    
-Stephanie M.         Temaat               Employee        50000 Per Annum  PRESS LEAD  
-III, Edwin R.        Thomas               Employee       100904 Per Annum  ASSISTANT EXECUTIVE CLERK  
-Jeffrey D.           Tiller               Employee        55000 Per Annum  SENIOR PRESS LEAD  
-Wayne H.             Ting                 Employee        60000 Per Annum  POLICY ADVISOR  
-Philip M.            Toomajian            Detailee       127883 Per Annum  ASSISTANT COUNSEL  
-Gregory T.           Trainor              Employee        68230 Per Annum  SPECIAL ASSISTANT  
-Austin M.            Travis               Employee        45000 Per Annum  EXECUTIVE ASSISTANT TO THE DIRECTOR OF SCHEDULING AND ADVANCE  
-Samantha J.          Tubman               Employee        65000 Per Annum  DEPUTY DIRECTOR AND DEPUTY SOCIAL SECRETARY  
-Phyllis J.           Tucker               Employee        94969 Per Annum  SUPERVISOR OF COMPUTER ADMINISTRATION  
-Andrea E.            Turk                 Employee        85000 Per Annum  DIRECTOR OF WHITE HOUSE SERVICES  
-Laura L.             Updegrove            Employee        60000 Per Annum  SPECIAL ASSISTANT TO THE DEPUTY CHIEF OF STAFF  
-Christopher R.       Upperman             Employee        42000 Per Annum  ANALYST    
-Dan G.               Utech                Employee       100000 Per Annum  DEPUTY DIRECTOR FOR ENERGY AND CLIMATE CHANGE  
-Stephanie M.         Valencia             Employee        92000 Per Annum  DEPUTY DIRECTOR OF PUBLIC ENGAGEMENT  
-Es, Christopher J.   Va                   Employee        42000 Per Annum  ANALYST    
-Ryan L.              VanGrack             Employee        80000 Per Annum  DEPUTY ASSOCIATE COUNSEL FOR PRESIDENTIAL PERSONNEL  
-Maju S.              Varghese             Employee        60000 Per Annum  SENIOR ADVANCE LEAD  
-Dagoberto            Vega                 Employee       100000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND DIRECTOR OF BROADCAST MEDIA  
-Ruth M.S.            Vetter               Detailee       136134 Per Annum  ETHICS ADVISOR  
-Thomas F.            Vietor               Employee       105000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT, SENIOR DIRECTOR AND NATIONAL SECURITY STAFF SPOKESMAN  
-Matthew A.           Vogel                Employee       130500 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR ECONOMIC POLICY  
-Lauren S.            Vrazilek             Employee        42000 Per Annum  DEPUTY ASSOCIATE DIRECTOR OF CORRESPONDENCE FOR THE FIRST LADY  
-Jesica E.            Wagstaff             Employee        45000 Per Annum  LEGISLATIVE ASSISTANT  
-Burden H.            Walker               Employee        55000 Per Annum  POLICY ASSISTANT  
-Anne E.              Wall                 Employee       130500 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS  
-Mary C.              Wall                 Employee        50000 Per Annum  POLICY ASSISTANT  
-Shana M.             Wallace              Detailee       136134 Per Annum  DEPUTY ASSOCIATE COUNSEL FOR PRESIDENTIAL PERSONNEL  
-Brian S.             Wallach              Employee        90000 Per Annum  SENIOR VETTING COUNSEL FOR PRESIDENTIAL PERSONNEL  
-Adam Y.              Wang-Levine          Employee        55080 Per Annum  POLICY ADVISOR  
-Andrea J.            Washington           Employee        50000 Per Annum  SENIOR WRITER  
-Takesha R.           Watson               Employee        46745 Per Annum  INFORMATION SERVICES OPERATOR  
-Peter A.             Welsch               Employee        62500 Per Annum  DEPUTY DIRECTOR OF ONLINE PLATFORM  
-Clay S.              Wertheimer           Employee        55000 Per Annum  DEPUTY ASSOCIATE DIRECTOR  
-Robert D.            Whithorne            Employee        50000 Per Annum  WRITER     
-Nikki E.             Williams             Detailee        88350 Per Annum  TECHNOLOGY PROJECT MANAGER  
-Roy J.               Williams             Detailee       157500 Per Annum  DEPUTY DIRECTOR OF INTERGOVERNMENTAL AFFAIRS  
-Sherman A.           Williams             Employee        77040 Per Annum  ASSISTANT TO THE EXECUTIVE CLERK  
-Justina R.           Williamson           Employee        42000 Per Annum  ANALYST    
-Taj N.               Wilson               Employee        80000 Per Annum  DEPUTY ASSOCIATE COUNSEL FOR PRESIDENTIAL PERSONNEL  
-Melissa E.           Winter               Employee       120000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND DEPUTY CHIEF OF STAFF AND DIRECTOR OF OPERATIONS FOR THE FIRST LADY  
-Karen E.             Wohlleben            Employee        42000 Per Annum  ANALYST    
-Frederick L.         Wong                 Employee        42000 Per Annum  DOMESTIC STAFF ASSISTANT  
-Victoria M.          Woodbury             Employee        42000 Per Annum  STAFF ASSISTANT  
-Andrew M.            Wright               Employee       130500 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND ASSOCIATE COUNSEL TO THE PRESIDENT  
-Jessica N.           Wright               Employee       130000 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT AND DIRECTOR OF SCHEDULING  
-Portia Y.            Wu                   Employee       100000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR LABOR AND WORKFORCE POLICY  
-Allison G.           Wylie                Employee        42000 Per Annum  STAFF ASSISTANT  
-Kevin S.             Xu                   Employee        42000 Per Annum  PRESS ASSISTANT  
-Jr., Reginald D.     Young                Employee        61952 Per Annum  RECORDS MANAGEMENT ANALYST  
-Latoya A.            Young                Employee        60232 Per Annum  RECORDS MANAGEMENT ANALYST  
-Valerie A.           Young                Employee        42000 Per Annum  RECORDS MANAGEMENT ANALYST  
-Jessica              Yuen                 Detailee        89033 Per Annum  POLICY ADVISOR  
-Ali A.               Zaidi                Detailee        68712 Per Annum  POLICY ADVISOR  
-Diane                Zarzuelo             Employee        50000 Per Annum  POLICY ASSISTANT, URBAN POLICY AND MOBILITY AND OPPORTUNITY  
-Heather R.           Zichal               Employee       140000 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT FOR ENERGY AND CLIMATE CHANGE  
-Mark                 Zuckerman            Employee       158500 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT AND DEPUTY DIRECTOR OF THE DOMESTIC POLICY COUNCIL  
+ Marie E.            Aberge               Employee        42000 Per Annum  PRESS ASSISTANT  
+ Sandra              Abrevay              Employee        90000 Per Annum  ASSOCIATE COMMUNICATIONS DIRECTOR  
+ David P.            Agne                 Employee       153500 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT AND DIRECTOR OF INTERGOVERNMENTAL AFFAIRS  
+ Rumana A.           Ahme                 Employee        42565 Per Annum  EXECUTIVE ASSISTANT TO THE DIRECTOR OF PUBLIC ENGAGEMENT  
+ James               Albin                Employee        93000 Per Annum  SENIOR PROGRAM MANAGER  
+ Elias               Alcantar             Employee        42000 Per Annum  STAFF ASSISTANT  
+ Amanda D.           Anderso              Employee       102000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS  
+ Russell M.          Anell                Detailee        92001 Per Annum  ASSISTANT COUNSEL  
+ Adam J.             Arguelle             Employee       102000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS  
+ Aviva R.            Aron-Din             Employee       130500 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR ECONOMIC POLICY  
+ Jonathan D.         Ase                  Employee        50000 Per Annum  SPECIAL ASSISTANT TO THE DIRECTOR  
+ Caroline M.         Atkinso              Employee       130500 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR INTERNATIONAL ECONOMIC AFFAIRS  
+ Hannah M.           Augus                Employee        70000 Per Annum  PRESS SECRETARY TO THE FIRST LADY  
+ Steven A.           Avil                 Employee        42000 Per Annum  ANALYST    
+ Lindsay A.          Aylin                Employee        50000 Per Annum  SENIOR WRITER  
+ Joseph L.           Bable                Employee        42000 Per Annum  STAFF ASSISTANT  
+ Sarah E.            Bake                 Employee        80000 Per Annum  DEPUTY ASSOCIATE COUNSEL FOR PRESIDENTIAL PERSONNEL  
+ Kristen A.          Bartolon             Employee        55000 Per Annum  ASSOCIATE RESEARCH DIRECTOR  
+ Mary E.             Baskervill           Employee        47000 Per Annum  ASSOCIATE DIRECTOR FOR TRAVEL PLANNING  
+ Andrew J.           Bate                 Employee        45000 Per Annum  RESEARCHER  
+ Stephanie           Beeche               Employee        45000 Per Annum  RESEARCHER  
+ Brandon M.          Belfor               Employee        90000 Per Annum  SENIOR POLICY ADVISOR  
+ Emmett S.           Belivea              Employee       130000 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT AND DIRECTOR, OFFICE OF THE CHIEF OF STAFF  
+ Jeremy M.           Bernar               Employee       118000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND WHITE HOUSE SOCIAL SECRETARY  
+ Jarrod N.           Bernstei             Detailee       138000 Per Annum  ASSOCIATE DIRECTOR OF PUBLIC ENGAGEMENT  
+ Rachana             Bhowmi               Employee       130000 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT AND DEPUTY CABINET SECRETARY  
+ Mary U.             Binn                 Employee        72022 Per Annum  SPECIAL ASSISTANT  
+ Rachel I.           Bis                  Employee        42000 Per Annum  LEGISLATIVE ASSISTANT  
+ Patricia A.         Blai                 Employee        96725 Per Annum  CHIEF CALLIGRAPHER  
+ Jessica M.          Blakemor             Employee        60000 Per Annum  SPECIAL ASSISTANT TO THE COUNSELOR TO THE PRESIDENT  
+ Michael R.          Bloc                 Employee        60000 Per Annum  ASSOCIATE DIRECTOR OF INTERGOVERNMENTAL AFFAIRS  
+ Patricia H.         Bloun                Employee        51630 Per Annum  RECORDS MANAGEMENT ANALYST  
+ Chelsea M.          Bollinge             Employee        42000 Per Annum  STAFF ASSISTANT  
+ Natalie F.          Bookey-Bake          Employee        55000 Per Annum  DEPUTY ASSOCIATE DIRECTOR  
+ Katherine Y.        Branc                Employee        61200 Per Annum  SPECIAL ASSISTANT TO THE SENIOR ADVISOR  
+ Anita J.            Breckenridg          Employee        95000 Per Annum  PERSONAL AIDE TO THE PRESIDENT  
+ John O.             Brenna               Employee       172200 Per Annum  ASSISTANT TO THE PRESIDENT FOR HOMELAND SECURITY AND COUNTERTERRORISM  
+ Mary J.             Brook                Employee        94969 Per Annum  SUPERVISOR OF CORRESPONDENCE REVIEW  
+ Jordan A.           Brook                Employee        50000 Per Annum  SPECIAL ASSISTANT TO THE CHIEF OF STAFF TO THE FIRST LADY  
+ Debra S.            Brow                 Employee        85953 Per Annum  CALLIGRAPHER  
+ Amy J.              Brundag              Employee       103000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND DEPUTY PRESS SECRETARY  
+ Daniel W.           Brundag              Employee        60000 Per Annum  SPECIAL ASSISTANT TO THE SENIOR ADVISOR AND DEPUTY CHIEF OF STAFF  
+ Michael P.          Brus                 Employee       102000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND DEPUTY DIRECTOR OF ADVANCE  
+ Scott E.            Buckhou              Employee        45000 Per Annum  POLICY ASSISTANT  
+ Nicole              Buff                 Employee        80000 Per Annum  DEPUTY DIRECTOR OF CABINET AFFAIRS  
+ Jillian M.          Burge                Employee        42000 Per Annum  ANALYST    
+ Jordan M.           Burk                 Employee        82500 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND ASSISTANT COMMUNICATIONS DIRECTOR  
+ Frances L.          Campbel              Employee       103872 Per Annum  SUPERVISOR, DOCUMENT MANAGEMENT AND TRACKING UNIT  
+ David R.            Campo                Employee        42565 Per Annum  SENIOR ANALYST  
+ Alejandra M.        Campoverd            Employee        65000 Per Annum  DEPUTY DIRECTOR OF HISPANIC MEDIA  
+ James F.            Carne                Employee       172200 Per Annum  ASSISTANT TO THE PRESIDENT AND PRESS SECRETARY  
+ Bradley W.          Carrol               Employee        78000 Per Annum  COMMUNICATIONS DIRECTOR OF THE DOMESTIC POLICY COUNCIL AND OFFICE OF NATIONAL AIDS POLICY  
+ Jonathan K.         Carso                Employee       153500 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT AND DIRECTOR OF THE OFFICE OF PUBLIC ENGAGEMENT  
+ Michael A.          Cas                  Employee        50000 Per Annum  ASSISTANT DIRECTOR  
+ Kinsey E.           Case                 Employee        55000 Per Annum  NATIONAL SECURITY DIRECTOR  
+ Hannah R.           Chatala              Employee        42000 Per Annum  RESEARCH ASSOCIATE  
+ Teresa R.           Chauran              Employee       113000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR PRESIDENTIAL PERSONNEL  
+ Caroline K.         Chen                 Employee       158500 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT AND PRINCIPAL DEPUTY COUNSEL TO THE PRESIDENT  
+ Mark B.             Childres             Employee       172200 Per Annum  ASSISTANT TO THE PRESIDENT AND DEPUTY CHIEF OF STAFF FOR PLANNING  
+ Theodore A.         Chiod                Employee        90000 Per Annum  CHIEF OF STAFF, OFFICE OF THE STAFF SECRETARY  
+ Ronnie S.           Ch                   Employee        65000 Per Annum  ASSOCIATE DIRECTOR OF PUBLIC ENGAGEMENT  
+ Lilia H.            Claud                Employee        60232 Per Annum  INFORMATION SERVICES OPERATOR  
+ John S.             Clic                 Employee        43616 Per Annum  INFORMATION SERVICES OPERATOR  
+ Kwesi A.            Cobbin               Employee        65000 Per Annum  CHIEF OF STAFF, OFFICE OF LEGISLATIVE AFFAIRS  
+ Kasie M.            Coccar               Employee        47500 Per Annum  ASSOCIATE DIRECTOR OF ONLINE OUTREACH AND OPERATIONS  
+ David Z.            Cohe                 Employee        42000 Per Annum  EXECUTIVE ASSISTANT  
+ Rebecca A.          Cokle                Employee        72000 Per Annum  PRIORITY PLACEMENT DIRECTOR  
+ Grant N.            Colfa                Employee       100000 Per Annum  DIRECTOR OF THE OFFICE OF NATIONAL AIDS POLICY  
+ Matthew V.          Compto               Employee        67500 Per Annum  DEPUTY DIRECTOR OF DIGITAL CONTENT  
+ Charles B.          Cooper, I            Detailee       115800 Per Annum  EXECUTIVE DIRECTOR, JOINING FORCES  
+ Caroline M.         Cosci                Employee        50000 Per Annum  SPECIAL ASSISTANT AND PRESS LEAD  
+ Francesca-Maria L.  Cove                 Employee        42000 Per Annum  DEPUTY TO THE COUNSELOR FOR STRATEGIC ENGAGEMENT  
+ Steven P.           Crole                Employee       135000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND SENIOR COUNSEL TO THE PRESIDENT  
+ Danielle M.         Crutchfiel           Employee       140000 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT AND DIRECTOR OF SCHEDULING AND ADVANCE  
+ Martin E.           Cuella               Employee        91800 Per Annum  DEPUTY DIRECTOR, PRESIDENTIAL CORRESPONDENCE  
+ Patrick J.          Cunnan               Employee        42000 Per Annum  PRESS ASSISTANT  
+ Colleen A.          Curti                Employee        72500 Per Annum  DIRECTOR OF DIGITAL CONTENT  
+ Chase M.            Cushma               Employee        58000 Per Annum  SENIOR SCHEDULER  
+ Kareem A.           Dal                  Employee        80000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND DEPUTY ASSOCIATE DIRECTOR OF PUBLIC ENGAGEMENT  
+ Ashlee J.           Davi                 Employee        42000 Per Annum  ENERGY AND ENVIRONMENT STAFF ASSISTANT  
+ Casey R.            Davis-Van Att        Employee        50000 Per Annum  SENIOR WRITER  
+ Laura A.            Dea                  Employee        50000 Per Annum  ASSISTANT SPEECHWRITER  
+ Brian C.            Dees                 Employee       147500 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT AND DEPUTY DIRECTOR, NATIONAL ECONOMIC COUNCIL  
+ Brian K.            DeGuzma              Employee        55000 Per Annum  DIRECTOR OF INFORMATION SERVICES  
+ Danilo              DeGuzman, Jr         Employee        74958 Per Annum  PRESIDENTIAL SUPPORT SPECIALIST  
+ Nancy-Ann M.        DeParl               Employee       172200 Per Annum  ASSISTANT TO THE PRESIDENT AND DEPUTY CHIEF OF STAFF FOR POLICY  
+ Thomas E.           Donilo               Employee       172200 Per Annum  ASSISTANT TO THE PRESIDENT AND NATIONAL SECURITY ADVISOR  
+ Michael W.          Donova               Employee        54000 Per Annum  ASSOCIATE DIRECTOR OF SCHEDULING  
+ Kelly C.            Dooha                Employee        50000 Per Annum  SCHEDULING ASSISTANT AND TRIP COORDINATOR  
+ Monique             Dorsainvi            Employee        50000 Per Annum  DEPUTY DIRECTOR OF ADVANCE AND SPECIAL EVENTS FOR THE OFFICE OF PUBLIC ENGAGEMENT AND INTERGOVERNMENTAL AFFAIRS  
+ Craig M.            Dorset               Employee        50000 Per Annum  SPECIAL ASSISTANT TO THE CHIEF OF STAFF  
+ Mark A.             Doume                Employee        50000 Per Annum  SPECIAL ASSISTANT TO THE WHITE HOUSE COUNSEL  
+ Philip C.           Droeg                Employee       140259 Per Annum  DIRECTOR OF RECORDS MANAGEMENT  
+ Joshua P.           DuBoi                Employee       100000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND EXECUTIVE DIRECTOR OF THE WHITE HOUSE OFFICE OF FAITH-BASED AND NEIGHBORHOOD PARTNERSHIPS  
+ Katherine I.        Ducema               Employee        42000 Per Annum  STAFF ASSISTANT  
+ Julia L.            Dunca                Employee        42000 Per Annum  STAFF ASSISTANT  
+ Meghann L.          Dunla                Employee        80000 Per Annum  DEPUTY ASSOCIATE COUNSEL FOR PRESIDENTIAL PERSONNEL  
+ Joseph T.           Durhei               Employee        42000 Per Annum  ANALYST    
+ Marissa N.          Duswal               Detailee        51630 Per Annum  ASSOCIATE DIRECTOR FOR POLICY AND EVENTS LET'S MOVE! INITIATIVE  
+ Deesha A.           Dye                  Employee        60000 Per Annum  DEPUTY DIRECTOR AND HOTEL PROGRAM DIRECTOR  
+ Joshua R.           Earnes               Employee       123000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND PRINCIPAL DEPUTY PRESS SECRETARY  
+ Anita J.            Edmond               Employee        51630 Per Annum  RECORDS MANAGEMENT ANALYST  
+ Brian J.            Ega                  Employee       130500 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND ASSOCIATE COUNSEL TO THE PRESIDENT  
+ Layth S.            Elhassan             Employee       130500 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS  
+ Michael S.          Epstei               Employee        55000 Per Annum  SPECIAL ASSISTANT AND ADVANCE LEAD  
+ Felicia A.          Escoba               Employee        93000 Per Annum  SENIOR POLICY DIRECTOR FOR IMMIGRATION  
+ Zulima L.           Espine               Employee       130500 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND ASSOCIATE COUNSEL TO THE PRESIDENT  
+ Jonathan E.         Favrea               Employee       172200 Per Annum  ASSISTANT TO THE PRESIDENT AND DIRECTOR OF SPEECHWRITING  
+ Jennifer M.         Fa                   Employee        85000 Per Annum  DIRECTOR OF WHITE HOUSE PERSONNEL  
+ Sarah B.            Fen                  Employee        60000 Per Annum  ASSISTANT COUNSEL OF ETHICS  
+ Micaela J.          Fernande             Employee       102000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND DIRECTOR OF EVENTS AND PROTOCOL  
+ Sara A.             Feuerstei            Employee        42000 Per Annum  WEST WING RECEPTIONIST  
+ Anne E.             Filipi               Employee        92000 Per Annum  DEPUTY DIRECTOR OF PUBLIC ENGAGEMENT  
+ Max B.              Finber               Detailee       132009 Per Annum  SENIOR POLICY ADVISOR  
+ Samantha D.         Fink                 Employee        52500 Per Annum  SPECIAL ASSISTANT AND PRESS MANAGER  
+ Alyssa D.           Fishe                Employee       115000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS  
+ Quinn S.            Fitzgeral            Employee        42000 Per Annum  STAFF ASSISTANT  
+ Brian H.            Fletche              Employee       114000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND ASSOCIATE COUNSEL TO THE PRESIDENT  
+ Harrison A.         For                  Employee        65000 Per Annum  ASSISTANT DIRECTOR FOR INFORMATION TECHNOLOGY  
+ Heather J.          Foste                Employee        60000 Per Annum  ASSOCIATE DIRECTOR OF PUBLIC ENGAGEMENT  
+ Elizabeth J.        Fowle                Employee       130500 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR HEALTHCARE AND ECONOMIC POLICY  
+ Myra B.             Freema               Employee        73917 Per Annum  RECORDS MANAGEMENT ANALYST  
+ Margaret E.         Freshwate            Employee        50000 Per Annum  DIRECTOR OF CORRESPONDENCE FOR THE FIRST LADY  
+ Michael B.          Froma                Employee       172200 Per Annum  ASSISTANT TO THE PRESIDENT AND DEPUTY NATIONAL SECURITY ADVISOR FOR INTERNATIONAL ECONOMICS  
+ Jocelyn C.          Fry                  Employee       140000 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT AND DIRECTOR OF POLICY AND PROJECTS FOR THE FIRST LADY  
+ Jason L.            Furma                Employee       147500 Per Annum  ASSISTANT TO THE PRESIDENT AND PRINCIPAL DEPUTY DIRECTOR OF THE NATIONAL ECONOMIC COUNCIL  
+ Charles W.          Galbrait             Employee        70000 Per Annum  ASSOCIATE DIRECTOR OF INTERGOVERNMENTAL AFFAIRS  
+ Adam W.             Garbe                Employee        62500 Per Annum  DEPUTY DIRECTOR OF DIGITAL CONTENT  
+ Frederico C.        Gardaph              Employee        75000 Per Annum  DEPUTY DIRECTOR  
+ Melissa K.          Geraght              Employee        95000 Per Annum  EXECUTIVE ASSISTANT TO THE CHIEF OF STAFF  
+ Gregory E.          Gershun              Employee        55000 Per Annum  ENERGY AND ENVIRONMENT DIRECTOR  
+ Jennifer T.         Gers                 Employee        55000 Per Annum  BOARDS AND COMMISSIONS DIRECTOR  
+ Jodi A.             Gillett              Employee       100000 Per Annum  SENIOR POLICY ADVISOR FOR NATIVE AMERICAN AFFAIRS  
+ Shannon I.          Gilso                Employee       102000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND CABINET COMMUNICATONS DIRECTOR  
+ Stephen M.          Goepfer              Employee        50000 Per Annum  ASSISTANT DIRECTOR  
+ Ximena              Gonzale              Employee        45000 Per Annum  EXECUTIVE ASSISTANT  
+ Graham D.           Gottlie              Employee        42000 Per Annum  BOARDS AND COMMISSIONS STAFF ASSISTANT  
+ Michael J.          Gottlie              Employee       130500 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND ASSOCIATE COUNSEL TO THE PRESIDENT  
+ Heather C.          Gottr                Detailee       140259 Per Annum  ASSOCIATE COUNSEL FOR ETHICS  
+ Emily C.            Gottschalk-Marcon    Employee        42000 Per Annum  STAFF ASSISTANT  
+ Sean M.             Grad                 Employee        42565 Per Annum  SENIOR ANALYST  
+ Douglas E.          Graha                Employee        45000 Per Annum  RESEARCHER  
+ Lottie B.           Graha                Employee        63673 Per Annum  INFORMATION SERVICES OPERATOR  
+ Timothy C.          Granhol              Employee        45000 Per Annum  LEGISLATIVE ASSISTANT AND ASSISTANT TO THE SENATE LIAISON  
+ Kathryn A.          Gran                 Employee        45000 Per Annum  LEGISLATIVE ASSISTANT AND ASSOCIATE DIRECTOR FOR LEGISLATIVE CORRESPONDENCE  
+ Danielle C.         Gra                  Employee       147500 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT AND DEPUTY DIRECTOR, NATIONAL ECONOMIC COUNCIL  
+ Jason G.            Gree                 Employee       114000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND ASSOCIATE COUNSEL TO THE PRESIDENT  
+ Andrei M.           Greenawal            Employee       100000 Per Annum  POLICY ADVISOR TO THE OFFICE OF THE CHIEF OF STAFF  
+ Jonathan A.         Greenblat            Employee       120000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND DIRECTOR, OFFICE OF SOCIAL INNOVATION AND CIVIC PARTICIPATION  
+ Norman A.           Green                Employee        70000 Per Annum  DIRECTOR FOR FINANCE  
+ Kyla F.             Griffit              Employee        45000 Per Annum  LEGAL ASSISTANT  
+ Stephen H.          Grime                Employee        50000 Per Annum  ASSISTANT DIRECTOR  
+ Jerome T.           Gronnige             Employee       100000 Per Annum  SENIOR POLICY ADVISOR  
+ Travis R.           Grot                 Employee        48000 Per Annum  ASSOCIATE DIRECTOR  
+ Anuj K.             Gupt                 Employee        70000 Per Annum  ASSOCIATE STAFF SECRETARY  
+ Matthew J.          Gustavso             Employee        43616 Per Annum  INFORMATION SERVICES OPERATOR  
+ Artemus R.          Gwynn, I             Employee        42000 Per Annum  INFORMATION SERVICES OPERATOR  
+ Avril D.            Haine                Employee       158500 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT AND DEPUTY COUNSEL TO THE PRESIDENT  
+ Christa A.          Hal                  Employee        47500 Per Annum  ASSOCIATE DIRECTOR AND TRIP MANAGER  
+ Hannah R.           Hankin               Employee        42000 Per Annum  MEDIA MONITOR  
+ Terry P.            Hanson, Jr           Employee        55000 Per Annum  DOMESTIC DIRECTOR  
+ Jacqueline B.       Harri                Employee        42000 Per Annum  ANALYST    
+ Kathleen R.         Hartnet              Employee       130500 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND ASSOCIATE COUNSEL TO THE PRESIDENT  
+ Timothy S.          Hart                 Employee        55000 Per Annum  SPECIAL ASSISTANT AND ADVANCE LEAD  
+ Maria-Zena A.       Harwoo               Employee        42000 Per Annum  RECORDS MANAGEMENT ANALYST  
+ Quintin L.          Hayne                Employee        47500 Per Annum  ASSOCIATE DIRECTOR FOR FINANCE  
+ Kellyn              Helmrick-Blosso      Employee        70000 Per Annum  ASSOCIATE DIRECTOR OF INTERGOVERNMENTAL AFFAIRS  
+ Catherine L.        Hendrick             Employee        42000 Per Annum  ANALYST    
+ Philip M.           Hernande             Employee        50000 Per Annum  SENIOR POLICY ANALYST  
+ Brian D.            Highsmit             Employee        50000 Per Annum  POLICY ADVISOR  
+ Vy T.               Hoan                 Employee        51630 Per Annum  RECORDS MANAGEMENT ANALYST  
+ Nancy D.            Hoga                 Employee       162900 Per Annum  ASSISTANT TO THE PRESIDENT AND DIRECTOR OF PRESIDENTIAL PERSONNEL  
+ Benjamin S.         Holze                Employee       100000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND DIRECTOR OF RESEARCH  
+ Samuel B.           Houshowe             Employee        50000 Per Annum  ASSISTANT COUNSEL  
+ Irene               Hs                   Employee        55000 Per Annum  SPECIAL ASSISTANT TO THE DIRECTOR OF INTERGOVERNMENTAL AFFAIRS  
+ Caroline E.         Hughe                Employee        70000 Per Annum  REGIONAL COMMUNICATIONS DIRECTOR  
+ Carolyn A.          Hul                  Employee        42565 Per Annum  SENIOR ANALYST  
+ Caitlin G.          Hurle                Employee        60000 Per Annum  ASSISTANT STAFF SECRETARY  
+ Sarah K.            Hurwit               Employee       100000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT, SENIOR ADVISOR TO THE COUNCIL ON WOMEN AND GIRLS, AND SENIOR PRESIDENTIAL SPEECHWRITER  
+ Shinichi            Inouy                Employee        78000 Per Annum  DIRECTOR OF SPECIALTY MEDIA  
+ Nicole M.           Isaa                 Employee       115000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS  
+ Bartlett W.         Jackso               Employee        45000 Per Annum  VETTER     
+ Elizabeth J.        Jackso               Employee        43616 Per Annum  RECORDS MANAGEMENT ANALYST  
+ Theresa R.          Jackso               Employee        66335 Per Annum  INFORMATION SERVICES OPERATOR  
+ William P.          Jacob                Detailee       140259 Per Annum  ETHICS ADVISOR  
+ Jewel A.            Jame                 Employee        92000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR INTERGOVERNMENTAL AFFAIRS  
+ Valerie B.          Jarret               Employee       172200 Per Annum  SENIOR ADVISOR AND ASSISTANT TO THE PRESIDENT FOR INTERGOVERNMENTAL AFFAIRS AND PUBLIC ENGAGEMENT  
+ Kristen E.          Jarvi                Employee        65000 Per Annum  DEPUTY DIRECTOR OF ADVANCE AND TRAVELING AIDE FOR THE FIRST LADY  
+ Bradley L.          Jenkin               Employee        65000 Per Annum  ASSOCIATE DIRECTOR  
+ Luis A.             Jimene               Employee       130500 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS  
+ Kelly X.            Ji                   Detailee        89033 Per Annum  POLICY ASSISTANT  
+ Ashlee N.           Johnso               Detailee        74958 Per Annum  POLICY ASSISTANT  
+ Carole A.           Johnso               Detailee       155500 Per Annum  SENIOR POLICY ADVISOR  
+ Linda M.            Johnso               Employee        68230 Per Annum  INFORMATION SERVICES OPERATOR  
+ Corey J.            Jone                 Employee        42000 Per Annum  STAFF ASSISTANT  
+ Crystal B.          Jone                 Employee        87350 Per Annum  ASSISTANT SUPERVISOR, DOCUMENT MANAGEMENT AND TRACKING UNIT  
+ Isabel C.           Jone                 Employee        42000 Per Annum  STAFF ASSISTANT  
+ Kristin T.          Jone                 Employee        50000 Per Annum  SPECIAL ASSISTANT AND PERSONAL AIDE TO THE FIRST LADY  
+ David E.            Kaden, David M. Kalbaug EmployeeEmployee     140259 Per Annum Per Annum  SENIOR POLICY ADVISOR EXECUTIVE CLERK  
+ Katy A.             Kal                  Employee       153300 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT FOR MANAGEMENT AND ADMINISTRATION  
+ Christopher D.      Kan                  Employee       135000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND SENIOR COUNSEL TO THE PRESIDENT  
+ Eugene J.           Kan                  Employee        60000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND TRAVELING AIDE  
+ Cody S.             Keena                Employee       100000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND DEPUTY DIRECTOR OF SPEECHWRITING  
+ Andrew J.           Keene                Employee        42565 Per Annum  SENIOR ANALYST  
+ Sarah A.            Kellerman            Employee        42565 Per Annum  SENIOR ANALYST  
+ Allison K.          Kell                 Employee        50000 Per Annum  ASSISTANT DIRECTOR FOR VETTING  
+ Lauren M.           Kell                 Employee        55000 Per Annum  DEPUTY ASSOCIATE DIRECTOR  
+ Mara V.             Kell                 Detailee       127883 Per Annum  SENIOR POLICY ADVISOR  
+ Nijah C.            Kell                 Employee        42000 Per Annum  INFORMATION SERVICES OPERATOR  
+ Zachary M.          Kell                 Employee        50000 Per Annum  SPECIAL ASSISTANT TO THE DEPUTY CHIEF OF STAFF  
+ Nathaniel O.        Keohan               Employee       130500 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR ENERGY AND ENVIRONMENT  
+ Leslie B.           Kierna               Employee       158500 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT AND DEPUTY COUNSEL TO THE PRESIDENT  
+ Bradley J.          Kile                 Employee       162900 Per Annum  ASSISTANT TO THE PRESIDENT FOR MANAGEMENT AND ADMINISTRATION  
+ Emilie A.           Kimbal               Employee        42565 Per Annum  SENIOR ANALYST  
+ Colleen M.          Kin                  Employee        45000 Per Annum  SPECIAL ASSISTANT TO THE CABINET SECRETARY  
+ Taeshonnda C.       Kin                  Employee        61952 Per Annum  RECORDS MANAGEMENT ANALYST  
+ Lacy R.             Klin                 Employee        50000 Per Annum  SPECIAL ASSISTANT  
+ Lisa M.             Koh                  Employee        50000 Per Annum  POLICY ASSISTANT  
+ Namrata             Kolachala            Employee        45000 Per Annum  DEPUTY ASSISTANT DIRECTOR OF BROADCAST MEDIA  
+ Stacy J.            Ko                   Employee        75000 Per Annum  DEPUTY CHIEF OF STAFF FOR PRESIDENTIAL PERSONNEL  
+ Clarissa H.         Kornel               Employee        42000 Per Annum  NATIONAL SECURITY STAFF ASSISTANT  
+ Douglas J.          Krame                Employee       158500 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT AND STAFF SECRETARY  
+ Alison C.           Kukl                 Employee        42000 Per Annum  SPECIAL ASSISTANT TO THE COUNSELOR TO THE SENIOR ADVISOR FOR STRATEGIC ENGAGEMENT  
+ Monika              Kulm                 Employee        42000 Per Annum  STAFF ASSISTANT  
+ Jeanne M.           Lambre               Employee       158500 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT FOR HEALTH POLICY  
+ Andrew B.           Langa                Detailee        74872 Per Annum  SENIOR POLICY ADVISOR  
+ Emily R.            Langne               Employee        60000 Per Annum  ASSISTANT STAFF SECRETARY  
+ Zachary T.          Larrimor             Employee        42000 Per Annum  ANALYST    
+ Solomon D.          Larte                Employee        60232 Per Annum  RECORDS MANAGEMENT ANALYST  
+ Danielle E.         Lazarowit            Employee        50000 Per Annum  POLICY ADVISOR  
+ Howli J.            Ledbette             Employee        57500 Per Annum  SPECIAL ASSISTANT TO THE PRESS SECRETARY  
+ Jesse C.            Le                   Employee        72500 Per Annum  DIRECTOR OF PROGRESSIVE MEDIA AND ONLINE RESPONSE  
+ Monica M.           Le                   Employee        42000 Per Annum  PRESS ASSISTANT  
+ Noelle C.           Le                   Detailee        92001 Per Annum  ASSOCIATE DIRECTOR FOR POLICY AND EVENTS  
+ Stephanie A.        Le                   Employee        60000 Per Annum  DEPUTY DIRECTOR OF SCHEDULING  
+ Matthew A.          Lehric               Employee        84250 Per Annum  ASSISTANT PRESS SECRETARY  
+ Brandon D.          Lepo                 Employee        70000 Per Annum  REGIONAL COMMUNICATIONS DIRECTOR  
+ Jacob J.            Le                   Employee       172200 Per Annum  ASSISTANT TO THE PRESIDENT AND CHIEF OF STAFF  
+ Jesse M.            Lewi                 Employee        42000 Per Annum  PRESS ASSISTANT  
+ Kevin S.            Lewi                 Employee        78000 Per Annum  DIRECTOR OF AFRICAN-AMERICAN MEDIA  
+ Darin R.            Lezott               Employee        64439 Per Annum  RECORDS MANAGEMENT ANALYST  
+ Christopher S.      Liddell-Westefel     Employee        60000 Per Annum  ASSISTANT STAFF SECRETARY  
+ Kyle J.             Lierma               Employee        42000 Per Annum  STAFF ASSISTANT  
+ Jordan N.           Lilli                Employee        45000 Per Annum  COORDINATOR  
+ Erin E.             Lindsa               Employee        62500 Per Annum  DEPUTY DIRECTOR OF ONLINE ENGAGEMENT  
+ David M.            Lit                  Employee        60000 Per Annum  SPEECHWRITER  
+ Aaron M.            Lopat                Detailee       112224 Per Annum  SENIOR POLICY ADVISOR  
+ Gregory             Lorjust              Employee        58000 Per Annum  SENIOR SCHEDULER  
+ Christopher P.      L                    Employee       172200 Per Annum  ASSISTANT TO THE PRESIDENT AND CABINET SECRETARY  
+ Deatrice N.         Luc                  Employee        46745 Per Annum  INFORMATION SERVICES OPERATOR  
+ Rory A.             MacFarquha           Employee       110500 Per Annum  DIRECTOR   
+ Jessica A.          Mahe                 Employee       115000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS  
+ Galen E.            Mai                  Employee        50000 Per Annum  ASSISTANT DIRECTOR  
+ Linda S.            Manu                 Employee        42000 Per Annum  STAFF ASSISTANT  
+ Johanna M.          Mask                 Employee        80000 Per Annum  DEPUTY DIRECTOR OF ADVANCE AND DIRECTOR OF PRESS ADVANCE  
+ Christine D.        Maso                 Detailee       132009 Per Annum  CLEARANCE ADVISOR  
+ Alyssa M.           Mastromonac          Employee       172200 Per Annum  ASSISTANT TO THE PRESIDENT AND DEPUTY CHIEF OF STAFF FOR OPERATIONS  
+ Philip C.           Mattso               Employee        61952 Per Annum  SPECIAL ASSISTANT  
+ Ari A.              Matusia              Detailee       108717 Per Annum  ASSOCIATE DIRECTOR OF PUBLIC ENGAGEMENT  
+ Stacie I.           McAfert              Employee        42000 Per Annum  ANALYST    
+ Matthew J.          McAlliste            Employee        42000 Per Annum  OPERATIONS STAFF ASSISTANT  
+ Jonathan D.         McBrid               Employee       130000 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT AND DEPUTY DIRECTOR OF PRESIDENTIAL PERSONNEL  
+ Mary N.             McCarth              Employee        80000 Per Annum  DEPUTY DIRECTOR OF CABINET AFFAIRS  
+ William W.          McCathra             Employee       106839 Per Annum  ASSISTANT EXECUTIVE CLERK  
+ Duncan J.           McCulloug            Employee        42565 Per Annum  SENIOR ANALYST  
+ Victoria M.         McCulloug            Employee        45000 Per Annum  STAFF ASSISTANT  
+ Denis R.            McDonoug             Employee       172200 Per Annum  ASSISTANT TO THE PRESIDENT AND DEPUTY NATIONAL SECURITY ADVISOR  
+ Douglas J.          McKali               Detailee       165300 Per Annum  SENIOR POLICY ADVISOR  
+ Margaret T.         McLaughli            Employee       120000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND CHIEF OF STAFF FOR PRESIDENTIAL PERSONNEL  
+ Collin T.           McMaho               Employee       113000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR PRESIDENTIAL PERSONNEL  
+ Claudia             McNamara Lawde       Employee        42000 Per Annum  ASSISTANT FOR ARRANGEMENTS  
+ John D.             McNaugh              Employee        42000 Per Annum  ECONOMICS STAFF ASSISTANT  
+ Michael S.          McSwain, Jr          Employee        41000 Per Annum  ASSOCIATE DIRECTOR FOR SCHEDULING CORRESPONDENCE  
+ Ezra L.             Mechabe              Employee        41000 Per Annum  ASSOCIATE DIRECTOR OF ONLINE ENGAGEMENT  
+ Jason S.            Mille                Employee       120000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR MANUFACTURING POLICY  
+ Chad L.             Milliso              Employee        61952 Per Annum  RECORDS MANAGEMENT ANALYST  
+ Luis A.             Mirand               Employee        78000 Per Annum  DIRECTOR OF HISPANIC MEDIA  
+ Andrea K.           Mokro                Employee        90000 Per Annum  DIRECTOR OF SCHEDULING AND ADVANCE FOR THE FIRST LADY  
+ Carlos A.           Monje, Jr            Employee       120000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND CHIEF OF STAFF OF THE DOMESTIC POLICY COUNCIL  
+ Darron P.           Monteir              Employee        61200 Per Annum  ASSOCIATE DIRECTOR OF PUBLIC ENGAGEMENT  
+ Ellen J.            Mont                 Employee        50000 Per Annum  POLICY ASSISTANT  
+ Amanda D.           Moos                 Employee       113000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR PRESIDENTIAL PERSONNEL  
+ Tyler T.            Mora                 Employee        80000 Per Annum  DEPUTY POLICY DIRECTOR FOR IMMIGRATION  
+ Patricia G.         Moscos               Employee        45000 Per Annum  LEGISLATIVE ASSISTANT  
+ Julia S.            Mosele               Employee        62000 Per Annum  SENIOR ADVANCE LEAD  
+ Brian D.            Mostelle             Employee        95000 Per Annum  DIRECTOR OF OVAL OFFICE OPERATIONS  
+ Richard T.          Muffle               Employee        94372 Per Annum  CALLIGRAPHER  
+ Cecilia             Muño                Employee       172200 Per Annum  ASSISTANT TO THE PRESIDENT AND DIRECTOR OF THE DOMESTIC POLICY COUNCIL  
+ Shannon L.          Myrick               Employee        42000 Per Annum  INFORMATION SERVICES OPERATOR  
+ Robert L.           Nabors, I            Employee       172200 Per Annum  ASSISTANT TO THE PRESIDENT AND DIRECTOR, OFFICE OF LEGISLATIVE AFFAIRS  
+ Wanda M.            Neima                Employee        74958 Per Annum  ASSISTANT TO THE EXECUTIVE CLERK  
+ Elizabeth W.        Nelso                Employee        80000 Per Annum  DEPUTY DIRECTOR OF SCHEDULING AND SCHEDULING MANAGER  
+ Gregory S.          Nelso                Employee       120000 Per Annum  CHIEF OF STAFF OF THE NATIONAL ECONOMIC COUNCIL  
+ Marvin D.           Nicholson, Jr        Employee       130000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT, TRIP DIRECTOR AND PERSONAL AIDE TO THE PRESIDENT  
+ David L.            Nobl                 Employee       113000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR PRESIDENTIAL PERSONNEL  
+ Amanda J.           Norri                Employee        42000 Per Annum  STAFF ASSISTANT  
+ Diana L.            Noye                 Employee        50000 Per Annum  RESEARCHER  
+ Kyle P.             O'Conno              Employee        75000 Per Annum  PRESIDENTIAL SPEECHWRITER  
+ Peter R.            Ogde                 Employee        95000 Per Annum  SENIOR POLICY DIRECTOR  
+ Daniel B.           Olmo                 Detailee       140259 Per Annum  SENIOR POLICY ADVISOR  
+ Elizabeth H.        Olso                 Employee       110000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND DIRECTOR OF PRESIDENTIAL CORRESPONDENCE  
+ Michael P.          O'Nei                Employee       100000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND DIRECTOR OF SPECIAL PROJECTS, OFFICE OF THE CHIEF OF STAFF  
+ Brendan A.          O'Neil               Employee        45000 Per Annum  COORDINATOR  
+ Rodrick T.          Owen                 Employee        42565 Per Annum  SENIOR ANALYST  
+ Jules E.            Pagan                Employee       158500 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS AND SENATE LIAISON  
+ Darienne M.         Pag                  Employee        50000 Per Annum  ASSISTANT DIRECTOR OF PUBLIC ENGAGEMENT  
+ Lauren R.           Paig                 Employee        95000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND DIRECTOR OF MESSAGE PLANNING  
+ Helen L.            Pajci                Employee        50000 Per Annum  POLICY ASSISTANT  
+ Jennifer M.         Palmier              Employee       158500 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT AND DEPUTY DIRECTOR OF COMMUNICATIONS  
+ Elizabeth H.        Pa                   Employee        42000 Per Annum  STAFF ASSISTANT  
+ Nicholas W.         Papa                 Employee        84250 Per Annum  ASSISTANT PRESS SECRETARY  
+ Louis S.            Pappa                Employee        60000 Per Annum  SENIOR LEGAL ASSISTANT  
+ Doris D.            Parker, Andrew M. Parke EmployeeEmployee      82359 Per Annum Per Annum  SPECIAL ASSISTANT ASSISTANT SUPERVISOR OF CLASSIFICATION  
+ James M.            Parrot               Detailee       144385 Per Annum  SENIOR ADVISOR FOR HOUSING, NATIONAL ECONOMIC COUNCIL  
+ Brian E.            Pat                  Employee        53350 Per Annum  ASSISTANT TO THE EXECUTIVE CLERK  
+ Joseph B.           Paulse               Employee        60000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND TRAVELING AIDE  
+ John H.             Payn                 Employee        42000 Per Annum  ANALYST    
+ Christian B.        Peel                 Employee        50000 Per Annum  DIRECTOR OF WHITE HOUSE INTERNSHIP PROGRAM  
+ Alejandro           Pére                Employee       130500 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS  
+ Nathaniel M.        Perkin               Employee        42000 Per Annum  STAFF ASSISTANT  
+ Seamus T.           Perr                 Employee        47500 Per Annum  ASSOCIATE DIRECTOR AND TRIP MANAGER  
+ Howard D.           Pfeiffe              Employee       172200 Per Annum  ASSISTANT TO THE PRESIDENT AND DIRECTOR OF COMMUNICATIONS  
+ Shilpa D.           Phadk                Employee        80000 Per Annum  DEPUTY DIRECTOR OF CABINET AFFAIRS  
+ Robert M.           Phillips, II         Employee       115000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND DIRECTOR OF DIGITAL STRATEGY  
+ Niara E.            Phillip              Employee        42000 Per Annum  PRIORITY PLACEMENT STAFF ASSISTANT  
+ Alexandra R.        Platki               Employee        70000 Per Annum  DEPUTY DIRECTOR  
+ Katherine A.        Plat                 Employee        85000 Per Annum  DIRECTOR OF WHITE HOUSE OPERATIONS AND ADVISOR FOR MANAGEMENT AND ADMINISTRATION  
+ David A.            Plouff               Employee       172200 Per Annum  ASSISTANT TO THE PRESIDENT AND SENIOR ADVISOR  
+ Natalie R.          Pojma                Employee        55000 Per Annum  DEPUTY PRESS SECRETARY AND EXECUTIVE SECRETARY  
+ Joshua D.           Pollac               Employee        95000 Per Annum  DIRECTOR OF CONFIRMATIONS  
+ Stacie M.           Pose                 Employee        45000 Per Annum  COORDINATOR  
+ Araz                Pourmora             Employee        65000 Per Annum  DEPUTY DIRECTOR OF OPERATIONS AND CONTINUITY  
+ Michael J.          Pyl                  Employee       130500 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR ECONOMIC POLICY  
+ Gautam              Raghava              Employee        60000 Per Annum  ASSOCIATE DIRECTOR OF PUBLIC ENGAGEMENT  
+ Paul S.             Raiz                 Employee       113605 Per Annum  DEPUTY DIRECTOR OF RECORDS MANAGEMENT  
+ London C.           Rakestra             Employee        45000 Per Annum  LEGISLATIVE ASSISTANT AND ASSISTANT TO THE HOUSE LIAISON  
+ Aneesh V.           Rama                 Employee        70000 Per Annum  PRESIDENTIAL SPEECHWRITER  
+ Ryan P.             Ramse                Employee        55000 Per Annum  PRIORITY PLACEMENT DIRECTOR  
+ Yasmin S.           Ran                  Employee        43616 Per Annum  INFORMATION SERVICES OPERATOR  
+ Cole A.             Randl                Employee        47000 Per Annum  ASSOCIATE DIRECTOR FOR TRAVEL PLANNING  
+ Antoinette N.       Range                Employee        42000 Per Annum  PRESS ASSISTANT  
+ Fiona O.            Reeve                Employee        76500 Per Annum  PRINCIPAL DEPUTY DIRECTOR  
+ Blair C.            Reinarma             Employee        55000 Per Annum  ECONOMICS DIRECTOR  
+ Karen E.            Richardso            Employee        60000 Per Annum  ASSOCIATE DIRECTOR OF PUBLIC ENGAGEMENT  
+ Cynthia L.          Roac                 Employee       103872 Per Annum  SUPERVISOR OF CLASSIFICATION  
+ Brian D.            Robert               Employee        42000 Per Annum  ANALYST    
+ Dominique E.        Robertso             Employee        42000 Per Annum  STAFF ASSISTANT  
+ Iain T.             Robertso             Employee        45000 Per Annum  COORDINATOR  
+ Derrick J.          Robinso              Employee        45000 Per Annum  VETTER     
+ Tonya T.            Robinso              Employee       100000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR JUSTICE AND REGULATORY POLICY  
+ Gertrude A.         Roddic               Employee        89846 Per Annum  PRESIDENTIAL SUPPORT SPECIALIST  
+ Julie C.            Rodrigue             Employee        60000 Per Annum  ASSOCIATE DIRECTOR OF PUBLIC ENGAGEMENT  
+ Miguel E.           Rodrigue             Employee       130500 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS  
+ Roberto J.          Rodrigue             Employee       120000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR EDUCATION POLICY  
+ Luke B.             Ros                  Employee        45000 Per Annum  ADVANCE COORDINATOR  
+ Joanna S.           Roshol               Employee        70000 Per Annum  REGIONAL COMMUNICATIONS DIRECTOR  
+ Peter M.            Rous                 Employee       172200 Per Annum  COUNSELOR TO THE PRESIDENT  
+ Kathryn H.          Ruemmle              Employee       172200 Per Annum  ASSISTANT TO THE PRESIDENT AND COUNSEL TO THE PRESIDENT  
+ Alexandria V.       Rui                  Employee        45000 Per Annum  LEGISLATIVE ASSISTANT  
+ Racquel S.          Russel               Employee       120000 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT FOR URBAN AFFAIRS AND ECONOMIC MOBILITY  
+ Katelyn A.          Sabochi              Employee        80000 Per Annum  DEPUTY DIRECTOR OF DIGITAL STRATEGY  
+ Rishi R.            Sahga                Employee        99000 Per Annum  DEPUTY ASSOCIATE COUNSEL  
+ Jonathan D.         Samuel               Employee       158500 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS AND HOUSE LIAISON  
+ Wendell A.          Samuels, Jr          Employee        64439 Per Annum  RECORDS SYSTEMS ANALYST  
+ Roque T.            Sanche               Employee        45000 Per Annum  POLICY ANALYST  
+ David J.            Sandle               Employee        99000 Per Annum  DEPUTY ASSOCIATE COUNSEL  
+ Joan C.             Sas                  Employee        58511 Per Annum  INFORMATION SERVICES OPERATOR  
+ Karly M.            Satkowia             Employee        45000 Per Annum  ASSOCIATE DIRECTOR AND SCHEDULING RESEARCHER  
+ Ellie S.            Schafe               Employee       100000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND DIRECTOR OF VISITORS OFFICE  
+ Kristina K.         Schak                Employee       114000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND DIRECTOR OF COMMUNICATIONS FOR THE FIRST LADY  
+ Matthew J.          Schau                Employee        50000 Per Annum  ASSISTANT DIRECTOR  
+ Robert E.           Schmuc               Employee        60000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND TRAVELING AIDE  
+ Hallie R.           Schnei               Employee        65000 Per Annum  ASSOCIATE DIRECTOR OF PUBLIC ENGAGEMENT  
+ Gregory L.          Schuelk              Employee        42000 Per Annum  ANALYST    
+ James D.            Schuelk              Employee        42000 Per Annum  STAFF ASSISTANT  
+ Kori S.             Schulma              Employee        72500 Per Annum  DIRECTOR OF ONLINE ENGAGEMENT  
+ Eric H.             Schult               Employee        90000 Per Annum  ASSOCIATE COMMUNICATIONS DIRECTOR  
+ Jessica E.          Schume               Employee        60000 Per Annum  DEPUTY CHIEF OF STAFF OF THE NATIONAL ECONOMIC COUNCIL  
+ Dawn M.             Sela                 Employee        57500 Per Annum  EXECUTIVE ASSISTANT  
+ Peter A.            Selfridg             Employee       130000 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT AND DIRECTOR OF ADVANCE AND OPERATIONS  
+ Michael P.          Shapir               Employee        55000 Per Annum  POLICY ADVISOR  
+ Kathleen M.         Sheeh                Employee        62000 Per Annum  SPECIAL ASSISTANT TO THE WHITE HOUSE COUNSEL  
+ Wendy W.            Shower               Employee        87350 Per Annum  PRESIDENTIAL SUPPORT SPECIALIST  
+ Avra C.             Siege                Employee        65000 Per Annum  DEPUTY EXECUTIVE DIRECTOR FOR THE COUNCIL ON WOMEN AND GIRLS  
+ Jennifer J.         Simo                 Employee        85000 Per Annum  DEPUTY DIRECTOR OF POLICY AND PROJECTS FOR THE FIRST LADY  
+ Edward N.           Siske                Employee       130500 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND SPECIAL COUNSEL TO THE PRESIDENT  
+ Megan               Slac                 Employee        47500 Per Annum  ASSOCIATE DIRECTOR OF DIGITAL CONTENT  
+ Anne K.             Smal                 Employee       130500 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND ASSOCIATE COUNSEL TO THE PRESIDENT  
+ Jamie E.            Smit                 Employee       110500 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND DEPUTY PRESS SECRETARY  
+ Jason J.            Smit                 Employee        65000 Per Annum  SYSTEMS ADMINISTRATOR  
+ Zakiya W.           Smit                 Employee        93000 Per Annum  SENIOR POLICY ADVISOR FOR EDUCATION  
+ Charlie J.          Sobe                 Employee        72000 Per Annum  DIRECTOR OF TECHNOLOGY  
+ Eugene B.           Sperlin              Employee       172200 Per Annum  ASSISTANT TO THE PRESIDENT FOR ECONOMIC POLICY AND DIRECTOR OF THE NATIONAL ECONOMIC COUNCIL  
+ Sarah C.            Spoone               Employee        42565 Per Annum  SENIOR ANALYST  
+ Kamala M.           Srinivasaga          Employee       113000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR PRESIDENTIAL PERSONNEL  
+ Kodiak H.           Star                 Employee        72500 Per Annum  NEW MEDIA CREATIVE DIRECTOR  
+ Semonti M.          Stephen              Employee        75000 Per Annum  DEPUTY COMMUNICATIONS DIRECTOR  
+ Clark W.            Steven               Employee        84250 Per Annum  ASSISTANT PRESS SECRETARY  
+ Ivan S.             Stoe                 Employee        50000 Per Annum  ASSISTANT DIRECTOR  
+ Wandra E.           Ston                 Employee       112774 Per Annum  SUPERVISOR OF SEARCH AND FILE  
+ Michael A.          Strautmani           Employee       150000 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT AND COUNSELOR TO THE SENIOR ADVISOR FOR STRATEGIC ENGAGEMENT  
+ Chun-Wei J.         S                    Employee       130500 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND ASSOCIATE COUNSEL TO THE PRESIDENT  
+ Sarah E.            Sulliva              Employee        41000 Per Annum  ANALYST    
+ Gregory C.          Swanso               Employee        45000 Per Annum  COORDINATOR  
+ Hugh T.             Taggart, Jr          Employee        94837 Per Annum  ASSISTANT SUPERVISOR OF SEARCH AND FILE  
+ Nathanael P.        Tamari               Employee        96900 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR PUBLIC ENGAGEMENT  
+ Ashley R.           Tate-Gilmor          Employee        75000 Per Annum  DIRECTOR OF TRAVEL OFFICE  
+ Christina M.        Tche                 Employee       172200 Per Annum  ASSISTANT TO THE PRESIDENT AND CHIEF OF STAFF TO THE FIRST LADY  
+ Louis D.            Teate                Employee        62000 Per Annum  SENIOR ADVANCE LEAD  
+ Dirk A.             Tedmo                Employee        42000 Per Annum  ANALYST    
+ Stephanie M.        Temaa                Employee        50000 Per Annum  PRESS LEAD  
+ Edwin R.            Thomas, II           Employee       100904 Per Annum  ASSISTANT EXECUTIVE CLERK  
+ Jeffrey D.          Tille                Employee        55000 Per Annum  SENIOR PRESS LEAD  
+ Wayne H.            Tin                  Employee        60000 Per Annum  POLICY ADVISOR  
+ Philip M.           Toomajia             Detailee       127883 Per Annum  ASSISTANT COUNSEL  
+ Gregory T.          Traino               Employee        68230 Per Annum  SPECIAL ASSISTANT  
+ Austin M.           Travi                Employee        45000 Per Annum  EXECUTIVE ASSISTANT TO THE DIRECTOR OF SCHEDULING AND ADVANCE  
+ Samantha J.         Tubma                Employee        65000 Per Annum  DEPUTY DIRECTOR AND DEPUTY SOCIAL SECRETARY  
+ Phyllis J.          Tucke                Employee        94969 Per Annum  SUPERVISOR OF COMPUTER ADMINISTRATION  
+ Andrea E.           Tur                  Employee        85000 Per Annum  DIRECTOR OF WHITE HOUSE SERVICES  
+ Laura L.            Updegrov             Employee        60000 Per Annum  SPECIAL ASSISTANT TO THE DEPUTY CHIEF OF STAFF  
+ Christopher R.      Upperma              Employee        42000 Per Annum  ANALYST    
+ Dan G.              Utec                 Employee       100000 Per Annum  DEPUTY DIRECTOR FOR ENERGY AND CLIMATE CHANGE  
+ Stephanie M.        Valenci              Employee        92000 Per Annum  DEPUTY DIRECTOR OF PUBLIC ENGAGEMENT  
+ Christopher J.      Van E                Employee        42000 Per Annum  ANALYST    
+ Ryan L.             VanGrac              Employee        80000 Per Annum  DEPUTY ASSOCIATE COUNSEL FOR PRESIDENTIAL PERSONNEL  
+ Maju S.             Varghes              Employee        60000 Per Annum  SENIOR ADVANCE LEAD  
+ Dagoberto           Veg                  Employee       100000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND DIRECTOR OF BROADCAST MEDIA  
+ Ruth M.S.           Vette                Detailee       136134 Per Annum  ETHICS ADVISOR  
+ Thomas F.           Vieto                Employee       105000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT, SENIOR DIRECTOR AND NATIONAL SECURITY STAFF SPOKESMAN  
+ Matthew A.          Voge                 Employee       130500 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR ECONOMIC POLICY  
+ Lauren S.           Vrazile              Employee        42000 Per Annum  DEPUTY ASSOCIATE DIRECTOR OF CORRESPONDENCE FOR THE FIRST LADY  
+ Jesica E.           Wagstaf              Employee        45000 Per Annum  LEGISLATIVE ASSISTANT  
+ Burden H.           Walke                Employee        55000 Per Annum  POLICY ASSISTANT  
+ Anne E.             Wal                  Employee       130500 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR LEGISLATIVE AFFAIRS  
+ Mary C.             Wal                  Employee        50000 Per Annum  POLICY ASSISTANT  
+ Shana M.            Wallac               Detailee       136134 Per Annum  DEPUTY ASSOCIATE COUNSEL FOR PRESIDENTIAL PERSONNEL  
+ Brian S.            Wallac               Employee        90000 Per Annum  SENIOR VETTING COUNSEL FOR PRESIDENTIAL PERSONNEL  
+ Adam Y.             Wang-Levin           Employee        55080 Per Annum  POLICY ADVISOR  
+ Andrea J.           Washingto            Employee        50000 Per Annum  SENIOR WRITER  
+ Takesha R.          Watso                Employee        46745 Per Annum  INFORMATION SERVICES OPERATOR  
+ Peter A.            Welsc                Employee        62500 Per Annum  DEPUTY DIRECTOR OF ONLINE PLATFORM  
+ Clay S.             Wertheime            Employee        55000 Per Annum  DEPUTY ASSOCIATE DIRECTOR  
+ Robert D.           Whithorn             Employee        50000 Per Annum  WRITER     
+ Nikki E.            William              Detailee        88350 Per Annum  TECHNOLOGY PROJECT MANAGER  
+ Roy J.              William              Detailee       157500 Per Annum  DEPUTY DIRECTOR OF INTERGOVERNMENTAL AFFAIRS  
+ Sherman A.          William              Employee        77040 Per Annum  ASSISTANT TO THE EXECUTIVE CLERK  
+ Justina R.          Williamso            Employee        42000 Per Annum  ANALYST    
+ Taj N.              Wilso                Employee        80000 Per Annum  DEPUTY ASSOCIATE COUNSEL FOR PRESIDENTIAL PERSONNEL  
+ Melissa E.          Winte                Employee       120000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND DEPUTY CHIEF OF STAFF AND DIRECTOR OF OPERATIONS FOR THE FIRST LADY  
+ Karen E.            Wohllebe             Employee        42000 Per Annum  ANALYST    
+ Frederick L.        Won                  Employee        42000 Per Annum  DOMESTIC STAFF ASSISTANT  
+ Victoria M.         Woodbur              Employee        42000 Per Annum  STAFF ASSISTANT  
+ Andrew M.           Wrigh                Employee       130500 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT AND ASSOCIATE COUNSEL TO THE PRESIDENT  
+ Jessica N.          Wrigh                Employee       130000 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT AND DIRECTOR OF SCHEDULING  
+ Portia Y.           W                    Employee       100000 Per Annum  SPECIAL ASSISTANT TO THE PRESIDENT FOR LABOR AND WORKFORCE POLICY  
+ Allison G.          Wyli                 Employee        42000 Per Annum  STAFF ASSISTANT  
+ Kevin S.            X                    Employee        42000 Per Annum  PRESS ASSISTANT  
+ Reginald D.         Young, Jr            Employee        61952 Per Annum  RECORDS MANAGEMENT ANALYST  
+ Latoya A.           Youn                 Employee        60232 Per Annum  RECORDS MANAGEMENT ANALYST  
+ Valerie A.          Youn                 Employee        42000 Per Annum  RECORDS MANAGEMENT ANALYST  
+ Jessica             Yue                  Detailee        89033 Per Annum  POLICY ADVISOR  
+ Ali A.              Zaid                 Detailee        68712 Per Annum  POLICY ADVISOR  
+ Diane               Zarzuel              Employee        50000 Per Annum  POLICY ASSISTANT, URBAN POLICY AND MOBILITY AND OPPORTUNITY  
+ Heather R.          Zicha                Employee       140000 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT FOR ENERGY AND CLIMATE CHANGE  
+ Mark                Zuckerma             Employee       158500 Per Annum  DEPUTY ASSISTANT TO THE PRESIDENT AND DEPUTY DIRECTOR OF THE DOMESTIC POLICY COUNCIL  

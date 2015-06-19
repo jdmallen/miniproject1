@@ -104,7 +104,7 @@ int main(int argc, char *argv[]){
 
         emp_field whichField;
         int tempSal(0), nameCount(0);
-        std::string fName, lName, tempPayBasis, tempStatus, tempTitle;
+        std::string tempName, fName, lName, tempPayBasis, tempStatus, tempTitle;
 
         for (int i = 1; i < tokens.size(); i++) {
             tok = tokens[i];
@@ -128,6 +128,12 @@ int main(int argc, char *argv[]){
                 }
                 if (latestTokenValue.compare(0,4,"/row") == 0) {
                     whichField = NONE;
+
+                    std::size_t pos = tempName.find_last_of(",");
+                    lName = tempName.substr(0,pos);
+                    if (lName.size () > 0)  lName.resize (lName.size () - 1);
+                    fName = tempName.substr(pos + 1);
+
                     emp->setSurname(lName);
                     emp->setFirstName(fName);
                     emp->setStatus(tempStatus);
@@ -140,13 +146,7 @@ int main(int argc, char *argv[]){
             if (tok.type == IDENT){
                 switch(whichField){
                     case NAME:
-                        if (nameCount == 0){
-                            lName = latestTokenValue;
-                            if (lName.size () > 0)  lName.resize (lName.size () - 1);
-                            nameCount++;
-                        } else {
-                            fName += latestTokenValue + " ";
-                        }
+                        tempName += latestTokenValue + " ";
                         break;
                     case STATUS:
                         tempStatus += latestTokenValue;
@@ -170,7 +170,8 @@ int main(int argc, char *argv[]){
                 tempPayBasis = "";
                 tempStatus = "";
                 tempTitle = "";
-                nameCount = 0;
+                tempName = "";
+//                nameCount = 0;
                 emp = new Employee();
             }
         }
