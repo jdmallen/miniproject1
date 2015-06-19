@@ -4,8 +4,6 @@
 #include <fstream>
 #include <sstream>
 #include <iomanip>
-#include <locale>
-#include <string>
 #include <cstring>
 #include <cstdlib>
 #include "Lexer.h"
@@ -16,8 +14,6 @@ int main(int argc, char *argv[]){
     std::string inFileName, outFileName;
     Lexer lexer;
     Token tok;
-    std::string line;
-    std::locale loc;
 
     if (argc == 1){
         std::cout << "Please provide an input filename." << std::endl;
@@ -74,10 +70,8 @@ int main(int argc, char *argv[]){
                 latestTokenValue = "row";
             }
             if (tok.type == TAG && latestTokenValue.compare(0,1,forwardSlash) != 0){ // If it's a new open tag
-//                std::cout << "OPENING: " << latestTokenValue << std::endl;
                 tags.push(latestTokenValue);    // Push it real good
             } else if (tok.type == TAG && latestTokenValue.compare(0,1,forwardSlash) == 0){ // If it's a closing tag
-//                std::cout << "CLOSING: " << latestTokenValue << std::endl << "   LASTTAG: " << lastTag << std::endl;
                 if (latestTokenValue.compare(1,latestTokenValue.size(),lastTag) == 0) { // and it closes the "top" tag
                     tags.pop();     // pop it like it's hot
                 } else {
@@ -87,7 +81,6 @@ int main(int argc, char *argv[]){
             }
             lastTag = (tags.size() > 0) ? tags.top() : "EMPTY";
         }
-//        std::cout << "lastTag: " << lastTag << std::endl << "tags.size() = " << tags.size() << std::endl;
         if (tags.size() != 0 || lastTag.compare(0,lastTag.size(),"EMPTY") != 0){
             std::cerr << "Input file not well-formed: unmatched tag(s)." << std::endl;
             return 1;
@@ -110,57 +103,30 @@ int main(int argc, char *argv[]){
         Employee *emp = new Employee();
 
         emp_field whichField;
-        int tempSal(0), nameCount(0), fieldCount(0);
+        int tempSal(0), nameCount(0);
         std::string fName, lName, tempPayBasis, tempStatus, tempTitle;
 
         for (int i = 1; i < tokens.size(); i++) {
             tok = tokens[i];
             std::string latestTokenValue = tok.value;
 
-//            std::cout << latestTokenValue << std::endl;
             if (tok.type == TAG){
                 if (latestTokenValue.compare(0,4,"name") == 0) {
-//                std::cout << "Capturing name..." << std::endl;
                     whichField = NAME;
                 }
-//                if (latestTokenValue.compare(0,5,"/name") == 0) {
-////                std::cout << "Done with name..." << std::endl;
-//                    whichField = NONE;
-//                }
                 if (latestTokenValue.compare(0,6,"status") == 0) {
-//                std::cout << "Capturing status..." << std::endl;
                     whichField = STATUS;
                 }
-//                if (latestTokenValue.compare(0,6,"/status") == 0) {
-////                std::cout << "Done with status..." << std::endl;
-//                    whichField = NONE;
-//                }
                 if (latestTokenValue.compare(0,6,"salary") == 0) {
-//                std::cout << "Capturing salary..." << std::endl;
                     whichField = SALARY;
                 }
-//                if (latestTokenValue.compare(0,7,"/salary") == 0) {
-////                std::cout << "Done with salary..." << std::endl;
-//                    whichField = NONE;
-//                }
                 if (latestTokenValue.compare(0,9,"pay_basis") == 0) {
-//                std::cout << "Capturing pay basis..." << std::endl;
                     whichField = PAY_BASIS;
                 }
-//                if (latestTokenValue.compare(0,10,"/pay_basis") == 0) {
-////                std::cout << "Done with pay basis..." << std::endl;
-//                    whichField = NONE;
-//                }
                 if (latestTokenValue.compare(0,14,"position_title") == 0) {
-//                std::cout << "Capturing position title..." << std::endl;
                     whichField = POSITION_TITLE;
                 }
-//                if (latestTokenValue.compare(0,9,"/position") == 0) {
-////                std::cout << "Done with position title..." << std::endl;
-//                    whichField = NONE;
-//                }
                 if (latestTokenValue.compare(0,4,"/row") == 0) {
-//                std::cout << "Done with position title..." << std::endl;
                     whichField = NONE;
                     emp->setSurname(lName);
                     emp->setFirstName(fName);
@@ -168,72 +134,46 @@ int main(int argc, char *argv[]){
                     emp->setSalary(tempSal);
                     emp->setPayBasis(tempPayBasis);
                     emp->setPositionTitle(tempTitle);
-
                 }
             }
-
 
             if (tok.type == IDENT){
                 switch(whichField){
                     case NAME:
-//                        std::cout << "<< found a name IDENT >>" << std::endl;
                         if (nameCount == 0){
                             lName = latestTokenValue;
-                            lName.pop_back();
-//                            emp->setSurname(lName);
+                            if (lName.size () > 0)  lName.resize (lName.size () - 1);
                             nameCount++;
-//                            fieldCount++;
                         } else {
                             fName += latestTokenValue + " ";
-//                            emp->setFirstName(fName);
-//                            fieldCount++;
                         }
                         break;
                     case STATUS:
-//                        std::cout << "<< found a status IDENT >>" << std::endl;
                         tempStatus += latestTokenValue;
-//                        emp->setStatus(tempStatus);
-//                        fieldCount++;
                         break;
                     case SALARY:
-//                        std::cout << "<< found a salary IDENT >>" << std::endl;
                         tempSal = (int)std::strtol(tok.value.c_str(),0,10);
-//                        emp->setSalary(tempSal);
-//                        fieldCount++;
                         break;
                     case PAY_BASIS:
-//                        std::cout << "<< found a pay basis IDENT >>" << std::endl;
                         tempPayBasis += latestTokenValue + " ";
                         break;
-//                        emp->setPayBasis(tempPayBasis);
-//                        fieldCount++;
                     case POSITION_TITLE:
-//                        std::cout << "<< found a title IDENT >>" << std::endl;
                         tempTitle += latestTokenValue + " ";
-//                        emp->setPositionTitle(tempTitle);
-//                        fieldCount++;
                         break;
                 }
             }
 
-
-            if (/*fieldCount >= 6*/emp->isFilledIn()){
-
+            if (emp->isFilledIn()){
                 emps.push_back(*emp);
-//                std::cout << "Added employee, count: " << emps.size() << std::endl;
-
                 fName = "";
                 lName = "";
                 tempPayBasis = "";
                 tempStatus = "";
                 tempTitle = "";
-                nameCount = 0; //fieldCount = 0;
+                nameCount = 0;
                 emp = new Employee();
-            } else {
-//                std::cout << "Incomplete employee" << std::endl;
             }
-
-        } // for
+        }
 
         output << emps[0].toStringHeader() << std::endl;
         output << "====================================================================================================================="
@@ -241,7 +181,6 @@ int main(int argc, char *argv[]){
         for (int x = 0; x < emps.size(); x++){
             output << emps[x].toString() << std::endl;
         }
-
 
         output.close();
     }
