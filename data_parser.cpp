@@ -127,8 +127,8 @@ int main(int argc, char *argv[]){
 ////                std::cout << "Done with name..." << std::endl;
 //                    whichField = NONE;
 //                }
-                if (latestTokenValue.compare(0,5,"status") == 0) {
-                std::cout << "Capturing status..." << std::endl;
+                if (latestTokenValue.compare(0,6,"status") == 0) {
+//                std::cout << "Capturing status..." << std::endl;
                     whichField = STATUS;
                 }
 //                if (latestTokenValue.compare(0,6,"/status") == 0) {
@@ -151,7 +151,7 @@ int main(int argc, char *argv[]){
 ////                std::cout << "Done with pay basis..." << std::endl;
 //                    whichField = NONE;
 //                }
-                if (latestTokenValue.compare(0,8,"position") == 0) {
+                if (latestTokenValue.compare(0,14,"position_title") == 0) {
 //                std::cout << "Capturing position title..." << std::endl;
                     whichField = POSITION_TITLE;
                 }
@@ -179,6 +179,7 @@ int main(int argc, char *argv[]){
 //                        std::cout << "<< found a name IDENT >>" << std::endl;
                         if (nameCount == 0){
                             lName = latestTokenValue;
+                            lName.pop_back();
 //                            emp->setSurname(lName);
                             nameCount++;
 //                            fieldCount++;
@@ -203,6 +204,7 @@ int main(int argc, char *argv[]){
                     case PAY_BASIS:
 //                        std::cout << "<< found a pay basis IDENT >>" << std::endl;
                         tempPayBasis += latestTokenValue + " ";
+                        break;
 //                        emp->setPayBasis(tempPayBasis);
 //                        fieldCount++;
                     case POSITION_TITLE:
@@ -213,21 +215,31 @@ int main(int argc, char *argv[]){
                         break;
                 }
             }
-//            std::cout << fieldCount << std::endl;
+
+
             if (/*fieldCount >= 6*/emp->isFilledIn()){
+
                 emps.push_back(*emp);
-                std::cout << "Added employee, count: " << emps.size() << std::endl;
-                fName = ""; lName = ""; tempPayBasis = "";
-                tempStatus = ""; tempTitle = ""; nameCount = 0; //fieldCount = 0;
+//                std::cout << "Added employee, count: " << emps.size() << std::endl;
+
+                fName = "";
+                lName = "";
+                tempPayBasis = "";
+                tempStatus = "";
+                tempTitle = "";
+                nameCount = 0; //fieldCount = 0;
                 emp = new Employee();
             } else {
 //                std::cout << "Incomplete employee" << std::endl;
             }
 
-        }
+        } // for
 
+        output << emps[0].toStringHeader() << std::endl;
+        output << "====================================================================================================================="
+            << std::endl;
         for (int x = 0; x < emps.size(); x++){
-            std::cout << emps[x].toString() << std::endl;
+            output << emps[x].toString() << std::endl;
         }
 
 
@@ -285,7 +297,7 @@ void Employee::setSurname(std::string &surname) {
 
 std::string Employee::toString() {
     std::ostringstream out;
-    out << std::left  << std::setw(15) << firstName     << " ";
+    out << std::left  << std::setw(20) << firstName     << " ";
     out << std::left  << std::setw(20) << surname       << " ";
     out << std::left  << std::setw(10) << status        << " ";
     out << std::right << std::setw(10) << salary        << " ";
@@ -296,7 +308,7 @@ std::string Employee::toString() {
 
 std::string Employee::toStringHeader() {
     std::ostringstream out;
-    out << std::left  << std::setw(15) << "FIRST_NAME"     << " ";
+    out << std::left  << std::setw(20) << "FIRST_NAME"     << " ";
     out << std::left  << std::setw(20) << "SURNAME"        << " ";
     out << std::left  << std::setw(10) << "STATUS"         << " ";
     out << std::right << std::setw(10) << "SALARY"         << " ";
